@@ -1,0 +1,501 @@
+question_id,patient_id,clinic_id,question_text,upvotes,views,answers_count,time_on_page,created_at
+3018d58f-89a7-46a4-9974-e8d7981fa24b,75ef9e42-b581-41f0-a657-2a7d60b94dc5,,"Are there English-speaking surrogacy clinics in Eastern Europe, and what are the typical costs involved?",52,1236,7,98.9,2025-03-13 10:14:33
+bfcb7a83-0043-4141-bc87-98048a140abe,3e610143-b4c8-4662-9be9-f8bb4eb5ea29,,How Do I Communicate with a Dentist Abroad If I Don’t Speak the Local Language?,22,826,12,399.0,2025-03-16 05:36:39
+338c5e09-53cf-412a-a84c-ea92646bccc4,f47efcb3-d5fb-467c-b175-d0e6075453c6,5.0,What Are the Best Destinations for an English-Speaking Dental Vacation?,72,407,11,89.7,2025-02-24 02:31:48
+856bb876-63ab-426f-ac2b-eabdde667bb5,3d3d818a-4e09-4a38-a49b-a23d2c3fd3db,,Which Country Offers the Best Affordable Dental Implants Without Sacrificing Quality?,26,868,13,8.6,2025-02-08 11:26:11
+95bd256e-1dea-466c-b0ac-c1e0e4ed25b0,ff9a4029-0f4f-497a-91b7-0a8db727b9a9,15.0,How Do I Communicate with a Dentist Abroad If I Don’t Speak the Local Language?,75,1448,4,392.8,2025-03-09 22:43:45
+c23b324c-03f3-433b-9510-b1f9bb6b01bb,e7af29d0-cbce-471d-b467-d9368c0a0ae1,,What are some reliable resources for finding authentic patient feedback on medical tourism clinics?,48,255,5,356.3,2025-03-14 15:55:20
+3a90facf-13d5-4675-8f54-61667a7b255f,e1a69648-f57f-44ee-94b0-6aac8e61c609,,Which Websites Have the Most Reliable Medical Tourism Reviews?,12,193,10,122.9,2025-03-22 19:30:41
+f6b83e7d-7cf4-4afe-baaa-7ec56e317908,edace87c-32d6-4b95-b971-4632d72be587,,Can anyone suggest trusted hospitals that specialize in pediatric cancer care with clear cost breakdowns and honest feedback,41,385,0,225.6,2025-02-18 07:10:34
+76dfa223-5eba-4935-971c-5a2224860c82,0089c628-abc1-40c4-9d75-039af8484ea1,3.0,Which Countries Offer Ethical and Cost-Effective Surrogacy Programs?,72,1007,10,226.3,2025-03-12 22:18:25
+4dbb2608-9e51-417d-ad77-9d129550833a,33f025c7-d7b0-4671-8ff9-860077b1070a,18.0,How Do I Find a Trustworthy Surrogacy Agency Abroad?,65,1347,7,351.6,2025-02-13 02:44:14
+a7582b93-62b3-4b54-b0cf-4327c294ca23,428de6ce-aa10-4c79-ae10-327a620f8ff1,14.0,What Are the Best Countries for English-Speaking Dental Tourism?,47,1306,5,179.0,2025-03-20 02:04:06
+6b3c42e3-194a-4c65-a3f9-96ab080d8e7e,727e16e8-a4ad-447b-9d45-6668f57c8148,7.0,Is It Cheaper to Get Surgery Abroad Even With Travel Costs?,45,775,11,80.6,2025-02-09 20:14:38
+6f164925-9971-48ab-a757-a4bc84eb96fc,2699da4a-97c5-4d46-b672-08b762728066,2.0,How do you verify if an English-speaking dentist abroad is qualified and trustworthy? What should I look for to avoid bad dental work?,22,1098,0,239.6,2025-03-24 17:07:15
+c60e1503-9fb9-44fe-bb06-4dfb4b13b78d,0d4ebf34-8185-49b5-addf-23f813c3a1d0,20.0,What Are the Hidden Costs of Getting Healthcare in Another Country?,68,1382,1,365.8,2025-03-06 02:38:52
+8906f88b-8d6c-425e-8b8c-4ce6faa46c27,b011bcc8-3303-4016-812f-8f07464b0640,,"How can international students in Germany find English-speaking doctors, and what medical services are covered under student health insurance?",40,225,10,121.9,2025-02-11 08:49:53
+fc47c51c-bd7e-4117-b370-2e56f24695df,9d115b4a-d9f3-4ef9-9655-f5d76b86c72d,6.0,How Do I Know If a Surrogacy Doctor Abroad Speaks Fluent English?,18,95,6,83.5,2025-01-20 08:34:48
+baf13a81-cc23-4826-b2fc-4d94430766b8,c185d897-ea15-40fc-b0ef-05e1bdefd116,,Is It Safe to Get Medical Treatment Abroad in an English-Speaking Facility?,54,127,0,264.6,2025-02-25 18:10:05
+88c958ce-b13b-4c28-b285-8497acdbbedc,64967456-5a40-4fe5-b393-d479dd6c573c,,Do Patients Recommend Their Dental Tourism Experience?,32,1008,7,194.3,2025-01-31 18:48:41
+b32eb794-62b2-493e-9163-0a957dd53510,fe47852e-0682-4301-9fa3-2389b035e160,9.0,How can I be sure that the medical tourism clinic I choose has real patient feedback and not just promotional reviews?,58,1369,0,379.0,2025-02-07 10:47:04
+6430416e-0971-4b4c-880c-6f21d4ea0a39,56437089-0a70-44fc-ad7e-5ac85a1c1cb2,,How Do I Communicate with a Dentist Abroad If I Don’t Speak the Local Language?,53,276,12,163.2,2025-02-05 10:58:00
+1513b2c0-e12e-4dcd-ad6a-8aa9bc7f60c8,973dd788-4c3c-45bd-97e0-4a510efe354f,16.0,Which countries offer the best price for medical tourism while maintaining high healthcare standards?,54,575,3,23.6,2025-04-11 05:14:38
+445902e9-b739-4ca4-a4c9-5c829b4b4830,be8594aa-2d96-4f8d-910a-72c4749d4d1d,,"Why do surrogacy costs vary so much between countries, and which locations offer the most transparent pricing?",39,1175,8,314.5,2025-01-24 20:41:19
+f380643c-194f-4fd5-9f8b-2fac5702bbc6,816e172f-a7f6-47e9-a0f9-7e5d6cc8c681,,How Can I Tell If a Dental Quote Abroad Is Too Good to Be True?,23,345,8,270.9,2025-02-14 11:37:11
+07fae5c7-8628-4f02-b36c-e90f32f98867,3a2532ed-aa97-4354-83b7-65451eb7a392,6.0,"How can international students in Germany find English-speaking doctors, and what medical services are covered under student health insurance?",57,1347,8,383.7,2025-03-11 15:11:53
+a184dccd-c2f3-441b-a463-6573c4fb7a93,fbbc485a-0a48-4fff-a407-94e847ace278,,Is Cheap Healthcare Abroad Safe and High-Quality?,23,965,0,166.7,2025-01-25 09:00:59
+6d9adc88-c210-4a17-acd0-d67aca80d6a9,3716afc3-0391-42a1-977d-682e4deb2821,,How Much Can I Really Save With Medical Tourism Abroad?,11,984,15,328.5,2025-03-10 22:57:56
+bb6b3291-f633-482b-8e98-19bf6b41e05f,5b2de0a8-a8e7-410e-891a-9cfca315bcef,,What’s the Catch with Cheap Dental Work in Other Countries?,63,695,3,399.2,2025-03-03 18:55:48
+e857d2d4-c3cb-43eb-9174-57afdd77adae,f59dc054-3126-46e7-9fa1-eec46714bde3,14.0,How Do I Know If Online Surrogacy Reviews Are Genuine?,44,762,6,96.4,2025-04-05 05:51:58
+904005a4-bbd0-4055-bec4-3714929a341b,cd4a66f6-3cb2-4d12-8580-c5b2115d2118,,What Are the Biggest Risks of Low-Cost Surrogacy Abroad and How Can Parents Protect Themselves?,47,1130,10,332.5,2025-01-27 07:55:05
+f3bfd83f-7511-4c7e-8d62-c03b632274cb,536c6e8f-8643-4b71-bc74-bbf2155fee1c,17.0,What Are the Biggest Complaints About Dental Tourism?,20,822,7,394.4,2025-01-30 15:59:40
+8210523d-42cb-4604-afb4-0d0e9b8e8ab0,673a3627-4e27-4165-a635-420ddaf8f03e,2.0,"How much does dental work cost in Turkey, and are the clinics safe for complex procedures like veneers or full-mouth restoration?",22,684,5,87.0,2025-04-09 06:50:22
+6df11af6-dfc1-4199-ab75-da06cfb243aa,21d70052-fb3c-4228-b331-a4dd7e8ca1dd,9.0,Are Patient Reviews of Dental Tourism Clinics Trustworthy?,46,427,7,95.4,2025-02-07 20:18:33
+a03e0b71-2741-447f-81ec-f22abc94c687,437e286f-2bda-4ede-ab65-db59596147f0,13.0,What Are the Best Destinations for an English-Speaking Dental Vacation?,35,871,13,346.8,2025-01-30 18:43:22
+70668a18-ece1-4856-bcb7-b00e980628e7,0e50ad7f-13df-4091-b345-1fd3e3a5e1f8,,Which Countries Have the Best-Rated Surrogacy Programs Based on Real Reviews?,34,195,1,361.5,2025-03-04 01:19:02
+4adecc0e-3073-4626-9cb9-9505866063c4,a0700c39-ebf0-493b-b56d-10781d968b28,,Where Can I Find Honest Reviews About Low-Cost Surrogacy Abroad?,7,1472,11,225.4,2025-04-15 14:00:49
+f9ce52d4-648d-4aa4-839e-21d37aef6b06,03e6caf9-3bf7-469a-afa4-56d8a85af074,20.0,"Why do surrogacy costs vary so much between countries, and which locations offer the most transparent pricing?",34,922,13,150.7,2025-01-24 10:18:45
+58964ae1-bd76-4f8a-802e-ab0da6d9f358,6164afe2-e29f-4266-a1d0-0501d2749be7,8.0,Can I Trust Online Deals for Affordable Dental Care Abroad?,43,149,7,107.7,2025-03-19 05:14:51
+44038d17-5744-48a6-814e-de4babca0757,d88d2e8c-6df2-4f47-8639-f6d080621358,6.0,"How much does dental work cost in Turkey, and are the clinics safe for complex procedures like veneers or full-mouth restoration?",29,223,10,317.6,2025-03-27 20:49:18
+be7a4e9b-ff9b-4754-a954-d08de90da4d2,a5ab8f19-d2de-467c-bffa-859c2807b8f2,13.0,"Can someone share their experience with low-cost surrogacy abroad, particularly regarding post-birth legal processes?",40,269,9,309.2,2025-02-04 06:21:36
+7c7b3810-4f85-4a15-9fa2-40ee9bf17ef3,c9dd4b0e-3815-4da2-beb9-917fc712edd5,15.0,"Why do surrogacy costs vary so much between countries, and which locations offer the most transparent pricing?",57,1500,14,309.8,2025-04-11 19:32:07
+c8dc8e84-0b5f-4d29-8c9d-3a7627134fa0,455644d0-d14d-4241-a0f2-75f5f392c270,,"Is traveling abroad for weight loss surgery safe, and how do I choose the right clinic?",42,705,7,37.1,2025-02-24 16:16:39
+9310a685-eb2b-4605-8a09-93183471b9b0,583c6d94-314e-454e-bcc9-46934735562a,,Can I Trust Online Reviews of English-Speaking Doctors Overseas?,56,971,3,205.6,2025-01-20 05:27:33
+b52c9ebc-e049-4838-8652-85af30714d06,28ef3d3d-d858-4914-a5fc-7964a52189e0,,Is It Cheaper to Get Surgery Abroad Even With Travel Costs?,50,1139,9,170.1,2025-04-14 11:49:28
+c95c320b-adad-4f83-a45f-aa7216d3b123,7342eb75-3bf8-48ca-a9d3-0a9ec6645fa4,,"What are the potential risks of opting for low-cost surrogacy abroad, and how can I make sure I’m choosing the right clinic?",68,891,6,129.5,2025-01-18 07:01:12
+7a9af696-fc3b-4ca6-b662-ef0884988730,e0f2520e-3163-42b3-be01-aa6a0a6672a3,6.0,How Hard Is It to Bring My Baby Home After Surrogacy Abroad?,3,1245,10,310.0,2025-01-24 16:26:55
+c5bd0099-962a-47db-8a60-24a57ef4440b,628a8038-f49a-4f94-8cd0-760e2396b4f2,,Healthcare advocate researching on behalf of someone else.,31,539,14,105.8,2025-03-31 07:59:41
+816f60e9-c02a-4c47-a701-b2fdcc0cdbda,a032534e-b823-4577-b553-f4c504a30834,,Where Can I Find English-Speaking Dentists for Dental Tourism?,67,1447,11,364.6,2025-01-18 05:18:13
+7ba8280e-133f-409d-954e-5273884da4c6,4ebf663f-ceff-42bd-9091-9dd80b31154d,,Does Insurance Cover Medical Treatment in Another Country?,19,433,13,202.0,2025-04-08 12:11:52
+9da2be3c-481d-43bf-b3bb-fe84525257b2,541550b6-fa87-43a2-b1cc-29977c5782ba,14.0,How can I find affordable surrogacy clinics in Ukraine that don’t compromise on the quality of care?,33,810,6,286.6,2025-02-22 21:59:00
+c66ae840-e30b-4683-a4a3-14b31647ac05,ec8f3517-475d-46f7-abf5-9e3808e215b2,,Retiree planning a leisure-based trip,19,43,13,30.0,2025-01-17 10:51:22
+089f5be7-653e-4d47-a69b-2a4048d3afbe,35f07bae-43d7-4d34-ba61-ba09e4d057d0,,Are Low-Cost Surrogacy Packages Abroad Ethical and Transparent?,13,234,6,183.4,2025-04-04 20:34:03
+8aae4548-27ca-43af-ae89-dd4b6be5e8c6,d26fb562-43ed-480f-bdb1-0c7f24d9ba3e,7.0,Are Patient Reviews of Dental Tourism Clinics Trustworthy?,53,790,13,174.1,2025-01-19 23:44:51
+2a2d0490-dc32-4f09-af04-85d784d0834c,bf28cc03-b80f-41fd-983e-9f3884ae0b66,3.0,Are Cheap Dental Implants Abroad a Safe and Smart Option?,6,235,3,45.8,2025-04-01 10:43:19
+20650690-6342-4d70-b214-7a11a596856c,78c0106a-4699-4db0-9ba6-e4a9a0b2a15f,,What are the cost differences between healthcare in Mexico and the U.S. for common procedures?,17,252,3,167.6,2025-02-04 18:31:47
+65263dff-f19c-4d31-86b8-f3694a97253c,62cf1a0f-b33b-48a3-891f-ab6caf179d86,,Which Countries Offer the Most Affordable and Trustworthy Surrogacy?,29,69,0,319.9,2025-03-21 01:41:33
+81fa710f-6f6d-4362-8ab4-51dc10ff4b2a,18b4dace-7c16-47cd-bbaf-2a641d30557e,17.0,How do I find reliable dental tourism clinics in English-speaking Caribbean destinations with no hidden fees?,3,1106,6,41.2,2025-03-04 00:52:35
+b26c6d84-e8b9-4d9d-8f11-06b9e12001df,4053fcba-545c-4971-87f2-4d06e0ee07bb,,Are Affordable Surrogacy Packages Abroad Safe and Reliable?,25,380,9,193.1,2025-02-15 22:59:31
+390ac321-2770-4ff9-9098-f6e13c2ab68b,ec3e2e25-17e6-431d-8980-41deb12618f9,8.0,Which Countries Have the Best-Rated Surrogacy Programs Based on Real Reviews?,65,945,0,242.0,2025-01-23 01:14:50
+b1d90133-c9f2-422c-a03a-17465998e566,42792abb-48c0-4b2f-814d-72e25cbb3f33,7.0,Where Can I Find Honest Reviews of Dental Tourism Abroad?,31,141,15,45.9,2025-03-21 23:46:28
+c813e8a1-a1f7-4fe5-9610-1db065a50cc9,47a8284a-fab3-454f-8c6c-10af3a10c4d3,,Healthcare advocate researching on behalf of someone else.,45,117,5,198.0,2025-02-20 10:40:40
+6d466fc3-5930-409b-8cca-be2597310ce5,c32ebaca-3ee1-4352-ab7f-5faf24ef6384,,Can I Really Save Thousands by Getting Dental Implants Abroad?,64,438,9,208.2,2025-04-07 09:04:16
+07cbff95-36ad-4fbf-b858-79d700b96527,e7515a81-c486-428e-a7f6-b89e198a1a3f,3.0,How Can Same-Sex Couples Find Affordable and Inclusive Surrogacy Programs Internationally?,75,592,13,252.1,2025-02-12 09:37:28
+b16a2beb-7865-431a-9c59-7a41aee48d46,84923748-de37-44d4-93d9-e3b3beaf4d23,5.0,"What are the best hospitals and clinics in Japan that provide English-speaking medical services, and how expensive is private healthcare?",29,869,13,260.4,2025-03-20 05:42:15
+ea912452-4a00-4bc0-8ab9-7c5087579e97,5fb078fc-4dca-493b-9554-ada94964980a,,Are Patient Reviews of Dental Tourism Clinics Trustworthy?,55,898,11,203.0,2025-02-09 17:13:31
+bc6f1e91-1647-4025-959d-8f6aa2843ae7,cf78e7b0-8487-4753-a8ba-da8618046157,20.0,Where Can I Find Genuine Medical Tourism Testimonials Online?,66,301,9,256.8,2025-04-03 04:57:43
+7cdfd874-430a-4250-a3dc-4032979c744e,28c6552d-703d-4cb4-a5e4-1499ea23e69c,20.0,Is Cheap Healthcare Abroad Safe and High-Quality?,60,1111,13,352.1,2025-01-18 18:55:04
+4be7f275-d297-4fb2-8c70-abdbac82da0b,dce253a3-08e8-44f9-84c9-a01bbcea5fc2,7.0,How do you find the best price for medical tourism without compromising quality?,68,557,0,241.9,2025-03-01 20:18:48
+c32fb2bf-f564-498c-9217-673b4b665150,0c627d14-153d-40ee-bba4-b065566f5003,,Is Budget-Friendly Surrogacy Overseas Too Good to Be True?,57,1153,2,243.6,2025-04-08 13:24:51
+95f4fb97-1f57-485b-98f2-5f2b8bdabee7,a93ccee5-639e-405d-a07d-53d3f0899759,,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",48,575,11,334.0,2025-04-15 20:31:49
+2a24a7d6-0d34-435d-befb-0bf2f3c28e79,a6b9e60b-a338-4ff4-8af4-f65db8ee4804,,Has Anyone Had a Good Experience with Medical Tourism in an English-Speaking Country?,24,521,11,267.8,2025-02-05 17:03:36
+b1c0bce9-fab2-478d-9c72-6a501f7b1412,e01025a4-a892-48cc-86d5-4873fa3900c6,,Which countries offer the best price for medical tourism while maintaining high healthcare standards?,52,1041,15,384.3,2025-03-15 22:25:39
+1a50b8a1-a5c2-4a98-acc8-69fe6e3b2840,fd6d0b29-d842-4b99-a478-9158ec2ef990,6.0,What Do Real Patients Say About the Cost and Support in Surrogacy Abroad?,27,795,6,302.0,2025-01-20 02:54:36
+e985179c-3381-4682-aa0c-0114ff73e5f3,b6eaeac7-b08a-4242-8330-cd372fc6a18b,14.0,What Are the Best Destinations for an English-Speaking Dental Vacation?,51,176,3,317.0,2025-03-06 23:37:25
+20885f4f-f2b5-438e-8352-8342c5374c3d,c7f79557-2cce-4c71-8edb-a1eae071adc7,,Do English-Speaking Doctors Abroad Provide the Same Level of Care?,19,1108,10,304.6,2025-02-23 07:27:35
+641d0d32-61df-4a82-8823-a1cd453e7a24,a5e384a6-8b72-493b-842a-42b4c8baaa04,,Do Patients Recommend Their Dental Tourism Experience?,74,828,0,89.6,2025-04-12 22:22:13
+65bbec44-5800-4b86-9cce-e47c2000c88f,2ce489f5-b7cf-4505-8ee2-bb030ee2cf50,15.0,Travel blogger focused on providing reliable information,49,14,2,194.4,2025-03-13 10:51:26
+b01f83b2-1fea-4c21-95d9-ca221ea4acea,cde1fff0-bb3f-477b-9818-2e830547e0ce,4.0,Where Can I Find Honest Reviews About Low-Cost Surrogacy Abroad?,5,1422,6,170.1,2025-02-23 07:13:07
+3359f00e-959b-491e-b8a8-c5e0adb9013c,a34d2a0c-f0ae-4404-a3d0-56e3a81e40dd,13.0,How Do I Know If a Dental Clinic Abroad Truly Offers English-Speaking Services?,48,249,1,173.4,2025-03-31 06:50:51
+87fa7c78-109c-47a1-80ea-1006fc910325,7cbc7ae1-8dfe-47ae-aa0b-be37fc687170,,Can I Trust Online Reviews About English-Speaking Surrogacy Doctors Overseas?,67,454,13,215.5,2025-02-13 11:50:10
+b57495cc-30ee-46ce-b345-15a1faa25876,4da33f8f-5e6a-49c3-9d63-17e42c441e7b,9.0,Has anyone traveled to India for dental care? What was your experience like?,70,1464,4,19.7,2025-03-12 19:19:41
+6cfcf67f-acd7-472a-8b19-b135c8bffa12,83308186-35cf-4b98-b8fc-2bff05f813ed,,Are Cheap Dental Implants Abroad a Safe and Smart Option?,64,1131,8,18.7,2025-01-20 12:33:56
+e39543db-110e-4179-a002-8873bab1a024,1c958842-0f72-43ab-939b-db03079e0bf7,17.0,"Can someone share their experience with low-cost surrogacy abroad, particularly regarding post-birth legal processes?",3,772,13,232.6,2025-01-29 11:13:18
+61589f5c-e215-4cba-b4ec-4da22e80b6a1,6104757e-1424-48c9-9201-e44372db53f4,14.0,What are the best patient-reviewed dental clinics in Mexico for high-quality care?,40,808,4,300.7,2025-01-26 02:53:53
+6fbe71a5-0ecd-4360-b05c-84012b6349eb,92ed47bc-e348-4339-a559-692c388c8767,,Retiree planning a leisure-based trip,74,474,7,361.5,2025-02-12 21:02:13
+0b5f20c4-ee5a-4afb-9cbe-79b777f4cb7c,a047e839-d954-428c-a6f8-7c89187207da,,"Can I Get a Cyst Removed on My Shoulder While on Spring Break in Cancun, Mexico?",31,1424,3,160.1,2025-03-19 12:01:43
+1d1ae008-8f31-4265-88b4-bffc541db377,446b8623-ed42-49b8-9f60-a9cb1c17c259,,Which Countries Have the Best-Rated Surrogacy Programs Based on Real Reviews?,40,828,11,350.9,2025-02-20 04:31:06
+7c3e5cf8-dea1-4697-a465-d892708771e3,dda8cf59-cfae-4de4-8f58-ec657a550a2f,16.0,Can Anyone Share Their Personal Experience with Dental Implants Abroad?,52,1479,0,380.8,2025-04-09 06:57:34
+8eeca6ad-985c-43e4-a177-9f218cc92d2f,24607e74-e302-4559-9de1-aa036a151267,9.0,"Can I Get a Cyst Removed on My Shoulder While on Spring Break in Cancun, Mexico?",60,269,8,15.9,2025-03-08 20:31:46
+b3f84fce-cbb1-4843-be5c-85a2d83e72b0,fb3c2416-9527-4ca0-9faf-368779fe433f,5.0,"Why do surrogacy costs vary so much between countries, and which locations offer the most transparent pricing?",48,573,11,197.1,2025-04-13 01:45:39
+44964e47-a2e1-475b-94f0-d1aa0951e63c,4df305cb-0042-499f-92b5-832f5ddbd00c,,What are the best-reviewed dental clinics in Mexico for affordable and reliable dental implants?,38,202,4,371.6,2025-04-11 05:12:46
+26f9a767-534f-4142-9f03-8d6dcb7d200e,04172096-30b2-4757-ae10-ea007bbfc000,,Which English-speaking country is best for high-quality yet affordable cosmetic dental tourism?,7,1146,15,238.7,2025-02-08 22:43:34
+013fe61f-3ccd-426b-8002-ddd98cc4abf4,6dd5bb8b-3c92-4b1a-8d90-2c1a84ceddb5,13.0,"How can we ensure complete transparency in surrogacy pricing in India, and what should be included in the cost breakdown?",57,62,0,287.5,2025-04-14 07:04:27
+dccad556-62e5-49a0-8e8f-dc13f8772d53,0bf59e3e-5cca-4310-afef-22891f80d739,,What Are the Best Dental Clinics Abroad Based on Real Patient Reviews?,2,867,14,62.1,2025-03-11 20:07:39
+ff9fbbd8-6dcb-48fe-8816-02ef346d4e37,01702299-47e6-4236-bf98-7e8c8a6ea363,,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",12,1202,10,190.3,2025-03-04 02:52:34
+df2886b8-6521-49d4-9f55-15616665ae1e,2b5d47e8-0fc1-40e7-b022-0ac0f131fc44,2.0,How Do I Know If Medical Tourism Reviews Are Real?,51,193,4,338.7,2025-04-07 13:48:52
+87f3c636-e785-4dbb-a414-00eedb86d6ee,08db6871-90e1-4485-a075-5c2864d75649,20.0,"Why do so many people choose Thailand for affordable cosmetic surgery, and what should I look for in a reputable clinic?",30,1386,11,227.6,2025-03-29 17:43:14
+588f3cc0-7682-4a20-8e02-bcd27e9cc256,38f9bdc4-40cb-4e5f-996d-f3e5f01f7b3d,,What Are the Best Destinations for an English-Speaking Dental Vacation?,42,317,4,379.3,2025-02-28 01:18:43
+fac761fa-01d3-474f-a702-1ee5337042ba,a8e19d3e-5f29-45a2-9524-223c78b75d71,,How do international surrogacy laws affect bringing a baby home from an affordable overseas clinic?,41,1043,11,206.2,2025-01-19 13:47:08
+778c37f5-9191-4f71-9063-0967529725f2,59d91364-49b0-43f1-8dd4-88e755d4dfd5,14.0,How do I find honest patient reviews for dental implant clinics in Turkey before booking an appointment?,54,1424,9,357.3,2025-01-27 16:56:43
+40923fef-b9d7-4350-b92a-5e0a24c19902,d85d1c93-6810-4050-b234-8c77cf723055,8.0,How do legal fees and processes affect the overall cost of surrogacy in different countries?,55,843,11,110.0,2025-03-19 16:29:29
+6f94bf7f-535d-4336-9ed0-46afd3b2826b,cf159979-c61d-48c3-84c1-312e4b416154,,What Are the Pros and Cons of Choosing Low-Cost Surrogacy Abroad?,38,100,3,269.2,2025-04-14 10:28:22
+420d770d-b6a9-49e1-bffe-ca6e9240d27e,e5b009c9-38a5-4a5d-b0ce-9c471fbd3120,,Can you provide a list of surrogacy clinics abroad with genuine ratings and reviews to help me make an informed choice?,13,1116,4,204.0,2025-02-28 21:06:45
+7c48c915-a022-4de0-b008-381db51ba083,c067fe25-f5b8-4829-a97f-8b6964da80da,,Can I Really Save Thousands by Getting Dental Implants Abroad?,73,1436,11,307.7,2025-03-14 16:20:15
+ed359184-aea3-4038-bc10-945d6b455360,6fb24276-8185-4127-9d6a-8aa6c65b13c5,,How do I evaluate if an affordable dental tourism package is a good deal or just too good to be true?,44,709,0,309.6,2025-03-30 01:34:29
+774264a2-af42-4077-a6a1-88473ed23fcf,ecc90cdf-9d5c-4a55-8675-f58beb2cf685,3.0,How do visa restrictions impact the cost and feasibility of a dental vacation?,61,164,2,223.9,2025-04-17 22:08:17
+7a91d304-1062-4ab7-9a2f-e5a5ab3022a6,7dac0512-0ef5-4d78-90ff-d1bfed518273,17.0,Has anyone traveled to India for dental care? What was your experience like?,60,308,7,79.6,2025-04-08 15:01:44
+ab9b3ae6-2479-4247-b4b3-69ffd572d3a2,33131318-aefb-4a63-8a8d-4beecc95032b,,Has Anyone Had a Great Experience With Cheap Dental Tourism?,11,693,6,197.4,2025-02-02 06:29:29
+54aeec64-f51d-4ed8-8edc-868c5da68d6a,cad898c4-c83d-4e4d-a469-9bc8067131df,,Are There Hidden Costs in Cheap Surrogacy Abroad?,58,557,2,284.4,2025-02-15 17:42:29
+13b00b41-c955-44cd-b91f-bd7ca07a4442,b6cb703b-ee77-4de5-a0fc-64a35a601b1a,,Where Can I Find Genuine Medical Tourism Testimonials Online?,8,188,12,312.9,2025-03-30 10:07:29
+5691761d-a212-4d26-a6be-5d459ea8843d,308f4f07-f8e0-49c6-a33d-3ad6df02ec56,12.0,What Are the Best Dental Clinics Abroad Based on Real Patient Reviews?,31,599,11,118.2,2025-01-20 10:07:24
+4c8a85c7-74f4-4578-89aa-374a585fd6ed,4189485b-5d25-4b9f-9536-bd9e3fbffbac,17.0,Are Cheap Medical Tourism Packages Really Worth It?,25,20,5,191.6,2025-04-09 09:14:38
+8d2d66ff-7fc3-41c4-894b-4eac7879dca7,bf733eeb-9423-441a-ad31-bcedbf57a9db,,How Can I Avoid Overpaying for Surrogacy Overseas?,14,1116,7,173.8,2025-01-31 21:58:35
+0e885e15-0de7-45e8-be19-e408b31a4e34,ab721cad-d726-47a0-b57f-c2448e60096c,,What Are the Legal and Financial Considerations for Single Parents Pursuing Surrogacy Abroad?,1,606,13,367.9,2025-03-26 16:53:21
+282a7142-418f-4ed2-9018-37feea6bbca1,81eb83a7-27ad-4ffb-afa5-684188aad082,20.0,Can you provide a list of surrogacy clinics abroad with genuine ratings and reviews to help me make an informed choice?,8,623,15,22.7,2025-02-14 09:56:19
+f0399283-c7f0-4f39-ad5f-951e9bfabe4c,6920e7fb-1a48-4503-9e08-ff57845fbb7c,,What are the top medical tourism countries for affordable hair restoration and how do I ensure the clinic’s quality abroad?,64,409,9,30.7,2025-04-12 00:51:32
+94ee825e-75d0-4f00-8684-8e5c349845ac,8cdb3a5e-2168-4e68-8dd1-4807ad1aa6b6,,Where Can I Find Trustworthy Reviews of English-Speaking Doctors Abroad?,71,43,14,316.5,2025-02-27 22:04:05
+1823d9ea-5e50-4312-a427-8c4cbddd9fde,ba8b467b-02b9-4464-8143-844fce8ce08d,,How do I find reliable dental tourism clinics in English-speaking Caribbean destinations with no hidden fees?,60,729,5,160.3,2025-04-03 02:26:31
+0a0211af-0e98-43ce-8c44-e5c7ea4edbdc,20be6013-17b7-4fbc-a2e3-8d6a100aa1c8,,Where Can I Find Honest Reviews About Low-Cost Surrogacy Abroad?,56,330,4,106.5,2025-03-12 05:32:10
+918c6574-1ee2-47e6-8667-3fb33fb7f74b,d2c6947f-14d6-4ba8-9d2b-a52861c4fe60,,"Are there English-speaking surrogacy clinics in Eastern Europe, and what are the typical costs involved?",32,1043,11,275.1,2025-04-10 10:15:32
+a2511a63-1f97-4f66-aa38-988dbe2f3ff7,d15530f7-3d41-4954-9fb8-d4c8b258f72c,4.0,Does Insurance Cover Medical Treatment in Another Country?,57,1034,7,122.7,2025-01-20 16:00:43
+11f344a3-5934-43fc-a4ee-0a6d222fb6d5,0cc1b7cc-cbd5-4a80-b361-229263ecb33e,,Do Patients Regret Choosing Medical Tourism for Their Treatment?,72,1051,9,383.3,2025-03-09 07:34:23
+cf4c3ae9-4344-4882-8406-14ddd66933e4,1358f994-7b20-4438-88f7-5a515af8d168,11.0,What Should I Expect From Affordable Surrogacy Packages Overseas?,66,1316,6,306.2,2025-01-25 14:20:04
+73d1bec8-2658-4245-8309-d2561ee7e87c,a7f43f22-a964-4f77-9055-c27b50695c97,,What are the real reviews of low-cost surrogacy options abroad in terms of success rates and overall experience?,65,450,11,200.4,2025-01-30 09:39:01
+9ab8fa27-9d92-4921-a7a0-199dbc1ec069,68addad4-6e74-49d0-afa6-6191b13e6953,1.0,How do healthcare costs in Turkey compare to Australia for specialist treatments?,34,1254,14,227.5,2025-02-26 19:35:43
+d4f98267-c645-46b3-ab7a-386c4e3f0b97,6415f339-8977-4cf1-9807-fe255ba58c4a,1.0,How Much Can I Really Save With Cheap Dental Tourism Abroad?,22,1445,14,371.6,2025-02-01 21:22:27
+b72a9c29-d5d1-4d1b-95ff-ac6ff626565e,e8842c1d-2b6f-4b37-b5a4-c68e1052ca03,10.0,How easy is it to find English-speaking dentists in Turkey for dental implants and veneers?,71,255,3,391.5,2025-01-26 04:25:11
+322066e3-96a9-4964-92ac-ffeee417ba95,49936a92-cf83-4cd4-898f-9164e291f219,3.0,How do you verify if an English-speaking dentist abroad is qualified and trustworthy? What should I look for to avoid bad dental work?,54,1016,10,187.5,2025-01-31 17:49:37
+5ff93ee2-15a5-41b2-bc1b-04295ad3c3da,e24e071d-eaed-4901-9e42-fc1012857cbc,,"How do same-sex couples find affordable surrogacy clinics overseas, and which countries are most welcoming?",36,866,7,70.5,2025-04-16 00:12:03
+12d7012e-cc31-4b3a-b825-58bef066dac5,98f90ea4-9439-4e63-9e83-afa9bfdc938e,7.0,Is Cheap Healthcare Abroad Safe and High-Quality?,10,940,9,374.0,2025-01-18 17:43:17
+8956a54f-81e3-4728-b69c-849ca64a3af2,418f4e1d-7ba9-46a3-a79d-e2086c0a7e9d,3.0,How Do I Find the Best Budget-Friendly Hospitals Abroad?,67,1453,0,95.6,2025-03-30 16:36:25
+c8d57efe-f487-4a4a-b733-a2cafcb25145,9ff24dc0-cf4f-4b71-a0c9-d6a1dc7432d1,20.0,"As a business owner with a busy schedule, how do I balance the need for dental care and the cost of a dental vacation without disrupting my work commitments?",66,1065,3,199.4,2025-03-07 17:29:01
+a390d891-4a94-4d32-bb52-fcc3220ac0e6,8938d371-0df3-4f70-9551-4cdb9c570adf,,How do legal fees and processes affect the overall cost of surrogacy in different countries?,49,1149,10,167.6,2025-03-29 18:16:17
+3b389cf0-a258-4aa0-85ad-10c689e188a7,4b4ff366-3711-4824-a1b6-621e12f6d7da,7.0,Which Countries Offer the Most Affordable Dental Tourism Packages?,14,899,7,309.8,2025-01-27 19:09:21
+1e503915-1bd3-4f8c-9725-ca007b9aaf47,50693394-9d60-43d7-91b6-d1c5ce97f846,2.0,How do I find an English-speaking dentist in Costa Rica for affordable and safe dental treatments?,74,129,3,212.9,2025-04-14 08:36:30
+12d6731f-a703-4b36-978a-e1b6702678e1,e5983009-8931-483a-bade-be9fc849ddec,,How can I find affordable surrogacy clinics in Ukraine that don’t compromise on the quality of care?,72,141,4,10.8,2025-03-03 12:21:13
+7602cba2-2e36-42dd-aafa-3790b44821f7,40f8c356-8b91-4d43-b6df-c75a56cc45e6,,How do you find the best price for medical tourism without compromising quality?,33,230,14,163.1,2025-03-20 18:19:02
+a3f55123-c97d-4f56-ad89-4a282945b98e,6d6f8ffb-b256-4a72-87af-51dde8a4edb2,14.0,Is IVF in Greece really more affordable? How do I find transparent pricing?,53,955,12,123.9,2025-02-24 01:17:42
+ced859f1-385e-4c82-a743-1ef8a6fa3dfe,de72f1cc-0e8a-42df-91d5-a0a72a9516ee,7.0,"How much do affordable medical treatments cost in Turkey, and what are the safest options for international patients?",43,182,7,154.2,2025-01-30 06:18:56
+8b878068-3140-46ef-9f8f-f1d28c26b01e,23d4266b-b1bb-4802-ab95-64ad554e53a3,4.0,How Can Same-Sex Couples Find Affordable and Inclusive Surrogacy Programs Internationally?,9,897,14,133.6,2025-01-24 21:55:10
+bd3998d9-3d31-48f3-a8e6-89485a1e38ed,0e7a9316-1dc9-4f89-a293-87a2f35726d5,7.0,Are English-Speaking Surrogacy Doctors Overseas as Qualified as Those Back Home?,66,112,15,36.4,2025-02-07 19:04:33
+627dd2f6-5038-417a-89b0-240407d445c4,69f320b2-1849-432c-b80d-8ce01d58f118,,What Are the Hidden Costs of Dental Implants Abroad?,37,5,4,146.1,2025-04-13 09:09:08
+07a34962-0342-442f-aed7-9b169d4dfab8,c7c64e0f-0be4-43b1-b818-c3cc32680dba,,What are the top medical tourism countries for affordable hair restoration and how do I ensure the clinic’s quality abroad?,41,1105,7,311.1,2025-02-19 16:51:17
+ef2025de-86ae-4858-b413-dadf389882bc,ff2db077-82fa-4157-a533-f3e7d7a853e1,16.0,What Do Patients Say About Their Experience With Dental Tourism?,23,1243,12,64.4,2025-03-31 08:36:41
+d299dc2e-9324-483d-9429-a29c2fd49abe,7d19cc32-98ba-4a11-867f-dc3548495115,16.0,What Do Real Patients Say About the Cost and Support in Surrogacy Abroad?,45,1459,13,39.4,2025-02-02 10:22:03
+d438abbc-3642-411c-a958-ed2ee8b17f45,4dcc417d-5d84-453f-ad34-a4ea1491f456,,"How can expat families in France find English-speaking pediatricians and family doctors, and does French health insurance cover their services?",34,617,13,304.0,2025-01-25 11:31:25
+ca7fa366-438a-47bf-8a6c-230e2f463ed5,4311c2a5-a065-4acd-8b9a-9a0070924352,12.0,How easy is it to find English-speaking dentists in Turkey for dental implants and veneers?,25,296,12,234.0,2025-03-26 07:54:50
+0abb6522-ad28-4179-be46-ee65bab064ab,87d2da4c-bbbd-427f-927a-ff0701f959fe,,How do I find honest patient reviews for dental implant clinics in Turkey before booking an appointment?,26,811,10,28.7,2025-04-06 22:48:56
+0b97f8a0-b857-4d7a-8e88-83d4144aee6f,dee0fcfb-4f92-40a8-88f6-84f62c406d82,,"What are the top medical tourism countries for stem cell therapy for joint degeneration and osteoarthritis, and what should we know before traveling abroad for treatment?",70,380,9,260.3,2025-03-11 07:36:49
+006660b3-e8bc-444d-83c2-cb2f16a680ed,7f7accf7-047a-4fe1-ad93-911b82d14826,,What Are the Hidden Costs of Getting Healthcare in Another Country?,68,1009,7,238.6,2025-02-28 02:51:50
+20ac2d8f-6e1d-4c52-87c7-dffd0751cb13,eac2785e-576d-498d-ada6-53e2cb35bc5c,13.0,"What are the potential risks of opting for low-cost surrogacy abroad, and how can I make sure I’m choosing the right clinic?",42,632,9,61.8,2025-02-20 23:48:56
+ba81960d-3fd1-475a-bf90-267c05c5f08a,5715ff1a-01e7-4606-af3e-5052dca4c838,,What Are the Biggest Risks of Low-Cost Surrogacy Abroad and How Can Parents Protect Themselves?,6,1263,2,295.9,2025-01-28 11:38:22
+2ce99d2c-3063-41a0-9ce5-8246a696d345,826a6a5d-d7a5-46cb-a7bf-35e84034ce1c,,How can I be sure that the medical tourism clinic I choose has real patient feedback and not just promotional reviews?,26,726,1,239.9,2025-03-13 00:08:52
+8f9459e0-3336-43a3-b759-e7508f14ab7e,5e41aae4-577d-4a29-805f-c0b52f2ff6b3,4.0,Is IVF in Greece really more affordable? How do I find transparent pricing?,48,898,4,155.6,2025-03-05 19:13:58
+b1f149e5-aa2f-43d2-bb58-b1c7777d2e01,313afabd-7db3-4ca5-a1cd-3e58a87f67d0,20.0,Do Patients Regret Choosing Medical Tourism for Their Treatment?,59,1166,4,230.7,2025-01-19 10:46:24
+230fca2c-88e6-4dd3-88b4-9de978d4b7ec,ea643960-ab90-402c-aea3-c1de5269f0d6,1.0,Can Someone Share Their First-Hand Experience with Dental Tourism?,8,942,4,194.0,2025-01-24 10:50:43
+9de9b3fc-9dd0-46be-9dfd-e5bab72e98e7,cd2f4cb4-3979-4fa2-9961-4cd73ad2676b,20.0,Are Patient Reviews of Dental Tourism Clinics Trustworthy?,29,450,3,375.2,2025-02-14 12:51:27
+222dc809-1ee2-419b-b7f0-501f40de1dbc,760d1948-67ca-4476-bbc7-ab90932c4b6c,7.0,"How can we ensure complete transparency in surrogacy pricing in India, and what should be included in the cost breakdown?",32,804,12,262.1,2025-01-20 20:38:19
+64ebd54e-6650-48fa-8cb2-3e7b8e029077,fad62a33-98bc-41c6-8b90-325fefe00bf1,14.0,Can Someone Share Their First-Hand Experience with Dental Tourism?,44,395,3,357.7,2025-01-20 09:56:51
+7b32217d-c259-4a68-8e2d-bf2476d99372,368c2889-b9a4-4beb-9547-2831e1683b8d,,"How much does dental work cost in Turkey, and are the clinics safe for complex procedures like veneers or full-mouth restoration?",42,989,7,300.2,2025-01-22 14:30:43
+9bc076b4-ac90-4c4a-9620-a17e194155b1,6b5835f2-6d2f-44c3-b592-310a8cb14a4e,,Is it safe to get dental work in Mexico?,12,295,10,219.1,2025-02-21 15:14:32
+62ec5b48-df5f-4010-ad0f-d0398802fe9c,64c0ddca-dfa6-4f90-b900-e3b8b53a38f1,15.0,How Do I Find a Trustworthy Surrogacy Agency Abroad?,12,180,4,397.0,2025-04-11 03:53:54
+4aaa14f1-13a5-4d35-9b5f-7e8a56c6f7df,1fd99b4b-40eb-45fb-98ba-96b0667e1370,18.0,How Much Can I Really Save With Cheap Dental Tourism Abroad?,17,700,10,43.1,2025-02-17 01:20:42
+53ff7f3c-b72a-4ff8-9783-1ba7160c4572,0100cc37-98a8-4440-a78d-5ee1a169c4a4,5.0,"As a business owner with a busy schedule, how do I balance the need for dental care and the cost of a dental vacation without disrupting my work commitments?",62,1386,0,170.6,2025-02-22 11:09:06
+8c0422c5-dfd9-4d12-83de-ae8a804d9e7b,434bb9c5-9f23-48eb-91a1-77d4cd505966,,Are Budget-Friendly Medical Tourism Packages Safe?,51,295,9,313.0,2025-01-23 03:37:15
+846c707c-42d0-4a01-9d28-07e3c7dd0a39,860f9e70-df6b-4b70-82a7-476c89f223ba,,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",70,588,13,230.7,2025-02-06 01:20:49
+85e4b218-f9fb-4aca-9525-fb5bcde8d440,cb0f3d80-cc80-4d32-a5b6-712e658d3bd0,,What are some reliable resources for finding authentic patient feedback on medical tourism clinics?,58,1190,0,149.6,2025-02-13 00:26:50
+e320f336-f3d7-4083-bf5a-242e2c32fe8d,ea4956e1-a74f-4ae3-88ad-0b497d183389,,Are Low-Cost Surrogacy Packages Abroad Ethical and Transparent?,49,624,14,17.5,2025-03-25 16:28:01
+f66b56a7-63e9-4622-9dcc-3da73e44590f,087dbb20-2992-4a09-a3fd-8c3d223d5e0b,,"Why is Thailand a top choice for English-speaking dental tourism, and what are the best clinics for major procedures?",20,1018,8,323.0,2025-02-18 19:46:21
+7b469a04-f6c0-4da0-8d8f-ceeefbd50774,a96820e6-87ec-4d8e-8a9b-2bef2ae12bae,16.0,"Is Surrogacy Abroad Truly Affordable, or Are There Hidden Costs?",2,385,8,53.9,2025-04-13 20:09:23
+3c01b054-a731-410e-a22b-6231de715003,11b0f8db-0c34-4db6-b7af-345c58c0f9af,4.0,What Should I Expect From Affordable Surrogacy Packages Overseas?,16,1035,7,394.0,2025-03-11 09:43:26
+d76760d3-5efb-40f0-a0db-02eee094df91,d844c666-5958-437d-9c0d-0aabf6457c44,19.0,Can I Trust Online Deals for Affordable Dental Care Abroad?,3,1411,9,372.4,2025-01-20 05:08:52
+21c6d51d-7f20-469f-a5e3-1fe0480a5a0f,4d711e58-8cc2-4576-80cd-a9d2a3bcd3ca,19.0,How Do I Verify Real Patient Testimonials for Dental Clinics Overseas?,21,1137,5,352.0,2025-04-13 01:24:39
+0c3402e7-da4b-4c36-8282-1fc4f0076af8,aebcd4d2-da71-4e6d-9e5e-1272218a3020,,Journalist seeking expert interviews,68,1437,13,115.2,2025-03-28 13:58:26
+0d262905-eecf-40a8-84ec-6dcd7e0c83b9,9e695a4a-be0d-4973-bcc3-c2ea36b9ecaf,,Are Cheap Medical Tourism Packages Really Worth It?,44,663,2,85.6,2025-01-28 04:25:54
+6a9f6005-12e9-49a0-b7bf-1e1417be99bb,b1f9f5c3-c306-4b1b-b1ef-31da7d2c05a7,,Are Affordable Surrogacy Packages Abroad Safe and Reliable?,54,508,14,367.1,2025-02-19 19:41:08
+88e36c27-c206-4ed0-8552-4ee3c73d3964,bfe6f633-5ce6-4138-91a3-2cfacf879c71,,How Do I Maximize Savings on Dental Tourism Without Sacrificing Quality?,30,827,13,341.9,2025-03-16 01:01:35
+7aaed2f9-9c24-4b6d-b644-e1c1566c4d95,14503c9a-4580-4bee-ab71-a213d3179894,,Has Anyone Had a Great Experience With Cheap Dental Tourism?,45,1297,6,118.7,2025-04-03 23:37:26
+8422fc1f-bbc6-4123-815f-5177b8dc3407,6588a1e2-dc68-4be2-952a-683a605d156e,13.0,"As a business owner with a busy schedule, how do I balance the need for dental care and the cost of a dental vacation without disrupting my work commitments?",11,112,14,122.0,2025-03-06 11:12:16
+3f2399b1-4afd-4f08-ae8c-c1f4089d33cc,31df2c15-32cf-4705-8790-a52af0040ec8,,What additional costs should patients consider when budgeting for medical tourism beyond the listed procedure price?,38,1044,8,171.2,2025-04-11 15:49:39
+5495cdcb-8a6d-4e75-8774-4ebd8dc93c2e,fc5a9fbe-d077-4654-b358-5b6bd1299e2d,,"What are the top medical tourism countries for cancer treatment, especially for advanced therapies like immunotherapy?",11,1065,3,370.1,2025-01-28 23:40:02
+610811b0-42c6-443c-9055-d0be5bdc6d44,ed9e0b6e-4feb-41fa-b952-9406c086b0e1,,Where Can I Find Trustworthy Reviews of English-Speaking Doctors Abroad?,15,1209,12,338.7,2025-04-11 02:50:29
+f3a8b72a-acf6-45e5-8752-d1c77d891b03,487bc96d-695e-4ebc-bb97-a38bf324f509,5.0,Is English-speaking dental care abroad reliable for emergency treatments? How do you find a good dentist when you're in a foreign country?,52,1009,12,373.4,2025-04-09 18:34:56
+812bde32-1d62-470a-acda-33695d705bf4,7bae61c9-4ded-45c5-95fc-db8aa0b26006,8.0,What should I look for in patient feedback when considering a tummy tuck procedure abroad?,21,1285,6,168.5,2025-02-17 05:07:44
+2e77107e-d2f4-48ea-aa2f-209e0c0c2d1e,d46858ed-9f0f-4310-88b9-29fed89642d4,,"How does surrogacy pricing in Georgia compare to other countries, and what is typically included in the cost?",28,472,1,328.6,2025-02-21 07:46:11
+711604e6-c32a-4360-bc81-fc65962c64ad,53e71e88-c1e0-45a4-8573-7ab0543818ca,7.0,Which Countries Have the Best-Rated Surrogacy Programs Based on Real Reviews?,21,1187,0,291.5,2025-01-19 22:06:19
+c2255f0f-e293-42ff-aee3-462e7d26116e,041483d9-52a6-48da-805a-c73bb0652ca3,17.0,Are Cheap Dental Clinics Abroad as Safe as Expensive Ones?,19,112,12,357.6,2025-02-04 21:06:42
+0f265bae-f937-4d9c-a2a1-9f410371ab4a,713e2b1d-cc27-4ac1-a41d-b1cc539fd8e5,1.0,Are There English-Speaking Plastic Surgeons in Italy for a Face Lift and Graft?,22,1433,9,317.1,2025-04-11 18:27:55
+3bf39eff-9947-42d0-bb02-0a34cb488414,23062550-f717-40f5-9098-bf84d2cb5243,6.0,Can I Trust Online Reviews of English-Speaking Doctors Overseas?,72,1378,10,40.3,2025-02-07 17:48:34
+a354fb20-66fa-472e-9844-d67405f79735,f782d78d-0a0e-4d64-989a-5715bc0f7267,17.0,What are the best cities in Mexico for affordable and high-quality dental implants?,67,1074,8,182.8,2025-01-24 10:39:36
+2df3556a-8577-47f5-acc5-39e0fdd46608,820c8da8-4b60-41e4-a124-44738d25956a,3.0,How Do I Know If an Affordable Surrogacy Package Abroad Is Worth the Price?,0,207,1,372.4,2025-03-30 06:18:21
+2af4c693-768c-4c48-bc12-a9110ac1f668,57dfb2bc-8102-4e33-a4fb-4608e9495c3c,,What Are the Common Risks of Choosing Low-Cost Surrogacy Overseas?,7,127,13,79.0,2025-01-19 15:36:05
+538c83db-bf4b-40fb-9c1d-9bd2a75c5adb,695f9649-224d-417f-b17b-939af43d3c9f,14.0,"How much do dental implants cost in Costa Rica, and are they as durable as those in the U.S. or Australia?",57,1062,4,359.7,2025-04-04 03:14:22
+f9bd5ce3-3975-4b26-8721-dcacde781934,4810552c-5811-4d8e-8cb8-797afb563660,19.0,How Can I Avoid Overpaying for Surrogacy Overseas?,68,1025,0,99.4,2025-02-01 01:43:09
+1b130a5b-aac1-44ac-8d1c-befde0346aff,addbcb98-2fc2-415e-a2a5-cbf1a3262ff2,8.0,Has anyone traveled to India for dental care? What was your experience like?,8,952,8,336.6,2025-04-06 04:26:36
+ddbcb7be-e828-409f-9fde-0df6ac00ecd3,a6c4efc8-d52f-4f3c-b885-4d7a195a0c12,6.0,Is IVF in Greece really more affordable? How do I find transparent pricing?,2,240,14,352.2,2025-04-04 03:09:37
+9e36e49b-2581-4cee-8ed2-c32028320f9d,6903ff4d-ea52-48fd-836f-1574a892e3d5,3.0,"How can I avoid medical fraud in Turkey when getting a hair transplant, especially as a traveler?",15,646,14,63.1,2025-04-09 13:41:09
+5a1b6755-7c5a-4dc4-8a63-49832fe6566b,58842d71-7372-4bc2-bf65-6ada1d813b17,3.0,Which Countries Offer Ethical and Cost-Effective Surrogacy Programs?,33,36,15,30.6,2025-01-18 18:13:51
+828b16cb-9a8f-4678-bfca-f28436dde16b,45a72cf3-b6e6-40b5-b709-128d0f31b420,,Can Anyone Share Their Personal Experience with Medical Tourism?,69,605,10,313.5,2025-01-30 18:23:39
+c38ab28e-6f95-478d-9ecc-228e0ec54aad,5c40f0d3-48be-493f-b6ba-c3b4d2f8d92d,3.0,Which English-speaking country is best for high-quality yet affordable cosmetic dental tourism?,65,824,6,79.5,2025-03-11 16:47:58
+e5fd1a75-f7c2-42dd-9450-48a22db0493c,4cb644e5-cbea-40f5-984e-23d722ade57f,,"How much do affordable medical treatments cost in Turkey, and what are the safest options for international patients?",42,761,8,210.4,2025-03-15 00:01:33
+05d3494c-0182-4d50-8c81-e7cec97a7332,3087a48c-fb2b-4bb3-82f9-b771eee38b76,,How Do I Know If a Surrogacy Doctor Abroad Speaks Fluent English?,0,1388,10,396.7,2025-01-30 12:59:26
+7ce631b6-159c-4711-9d7b-7dc223ba800d,e8aee80a-31c4-4126-b0e6-8a35724047fd,10.0,How do I find reliable dental tourism clinics in English-speaking Caribbean destinations with no hidden fees?,55,683,13,207.2,2025-04-16 14:10:12
+a17e9f65-669f-4cc4-bbd0-a56b41053d9a,e9a2955b-d392-4d21-be19-11782717d020,16.0,Why is Mexico becoming a popular destination for low-cost surrogacy and how can I ensure transparent pricing?,20,1104,15,73.3,2025-02-05 08:30:44
+d8605da7-1978-4de2-869c-ff1be4611324,f5ebd5d9-a97c-4cac-930b-33b013e904d7,11.0,What are the best-reviewed dental clinics in Mexico for affordable and reliable dental implants?,33,1471,2,141.1,2025-04-03 10:11:30
+6090dfd5-1234-45d8-97bf-040dc404dab1,099a7ba3-c1f5-4b58-baac-b4e918268acf,,Has anyone traveled to Thailand for dental tourism? How easy is it for English speakers?,35,126,7,316.2,2025-01-31 14:07:11
+617a379b-38c2-435d-a20e-371098976877,3a265990-b444-47f7-b8b2-8f897b359de3,,What Are the Best Low-Cost Medical Tourism Destinations for Affordable Treatment?,55,120,2,46.2,2025-03-24 01:33:47
+2d3af48e-cee6-4815-b4c8-927834936e6a,1a66c2ac-08ee-4c1e-938e-1829d0a23ff7,,How Can I Avoid Overpaying for Surrogacy Overseas?,21,941,15,140.7,2025-01-27 16:35:06
+a0bbe152-7243-4009-b82f-f471189b1846,cf65a0e6-bed2-48ab-a5fc-b1310fb5a8b2,,Travel blogger focused on providing reliable information,23,577,13,321.9,2025-02-22 12:12:40
+c1f858be-77b7-442e-bec6-4525d70bfee7,5222f68c-14b5-473a-b760-a01a3a2e567f,6.0,Busy professional seeking convenience,70,459,4,189.2,2025-01-19 12:39:31
+764517b0-772b-41d2-a1f2-34990f4191bf,241ca821-9a35-4d8f-a278-5e233f4286fe,18.0,"Can I Get a Cyst Removed on My Shoulder While on Spring Break in Cancun, Mexico?",72,678,6,394.0,2025-01-17 08:03:11
+d812da22-8100-405e-a772-acc6369afff6,7ca13d3f-59de-48bb-a413-ee53f9781dbb,6.0,Where Can I Find Honest Reviews About Low-Cost Surrogacy Abroad?,37,1495,1,76.2,2025-01-29 22:32:11
+27bd35a7-8b3f-41ae-a1ad-b91703be8519,3bcf71f9-afe9-45d9-a3fb-178d58cf51fc,6.0,How do healthcare costs in Turkey compare to Australia for specialist treatments?,23,603,14,9.8,2025-04-04 22:24:13
+31da616e-a192-44e2-8523-1f4d5000ae61,178e63db-d05c-4458-ac33-fcda068e29d3,,What Are the Biggest Risks of Low-Cost Surrogacy Abroad and How Can Parents Protect Themselves?,48,879,1,255.6,2025-02-26 07:32:15
+3b0c572b-5090-4273-b342-f57f977a8732,0678d15a-b68b-46c8-b0cb-e3d0752fe46f,15.0,Is It Cheaper to Get Surgery Abroad Even With Travel Costs?,46,596,10,252.0,2025-02-11 23:34:35
+4d87cd11-7389-4088-aca7-4a12d6b8c062,9ba9346f-e72b-4c7b-a87d-ee710d78a1a3,,"Why do surrogacy costs vary so much between countries, and which locations offer the most transparent pricing?",12,489,9,375.8,2025-02-02 19:56:33
+fdae9137-bc82-4066-92b4-0cd8c1141a97,57d1e781-6b15-4be4-915a-30e6316fd475,,"How much do affordable medical treatments cost in Turkey, and what are the safest options for international patients?",3,992,6,201.1,2025-03-31 13:26:18
+fb4dc1d1-8efe-4d7b-b10c-963d879bfcdc,38447ab6-369d-4f4f-83a1-b14b35b29a89,,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",38,1066,5,395.0,2025-03-17 18:21:26
+2ab2e307-83a8-4c49-8cd4-63fd37c96498,871e136e-74db-4731-acbb-3924da4d1570,5.0,Has Anyone Had a Good Experience with Medical Tourism in an English-Speaking Country?,5,745,4,247.9,2025-03-08 07:26:56
+58e8df93-00c7-4927-8986-107f4a195926,671f9171-549f-415b-933b-5060484d8b4b,,"Can I Get a Cyst Removed on My Shoulder While on Spring Break in Cancun, Mexico?",22,1428,14,286.7,2025-02-16 02:38:42
+654adc72-ac70-4c8b-bd18-62b036268b4a,7a103276-abd9-4d7e-b22c-78240093a0e8,,Business owner needing accurate financial planning,16,75,2,308.8,2025-01-18 01:34:23
+6b2c34d7-96b7-409d-94e3-1108ed15d070,13183c45-1b2f-48d4-a86d-1f9c7d382a96,1.0,How do you manage long-distance communication and trust when choosing an affordable surrogacy clinic overseas?,19,714,11,265.4,2025-02-05 05:22:48
+0d969c84-c078-4f7a-86ab-d821c49ab0cc,dba7464d-ddbb-44ac-9d32-35970537c8c7,14.0,Do Patients Regret Choosing Medical Tourism for Their Treatment?,54,458,4,219.6,2025-01-22 18:12:48
+3cdd0ab2-f690-4dc1-82ae-e908be221816,e6a029f6-8be4-4cf8-977c-195efdb4327d,12.0,"Why do so many people choose Thailand for affordable cosmetic surgery, and what should I look for in a reputable clinic?",75,1383,10,389.7,2025-01-26 16:01:04
+99ac8478-98f8-4ed6-94a6-e43229737985,440bbdf1-76d6-408a-a791-d073f1c43a43,14.0,What Are the Common Risks of Choosing Low-Cost Surrogacy Overseas?,24,95,9,267.3,2025-02-02 13:58:00
+a4d45e79-e65e-47ad-bd23-0375d6d6b6ce,05a26484-ccea-4751-89d7-a93818ff5bf0,,How Hard Is It to Bring My Baby Home After Surrogacy Abroad?,40,708,15,102.5,2025-03-21 05:54:20
+23c038a3-d3d4-493b-adb3-e47d459ca23c,57b590f6-8a63-425e-af39-23eab4518be0,,What Are the Best Countries for Surrogacy With English-Speaking Doctors?,9,1029,3,283.2,2025-02-02 14:43:10
+90724654-af65-44d4-b8f5-e0c98b310a21,3a06ae45-e06f-4a34-8df3-6d1297df6b09,,"What are the best English-speaking dental clinics in Hungary, and how does the quality compare to the UK?",54,98,1,366.8,2025-02-13 14:58:04
+06b1613b-ba9c-47eb-a647-404e4ebad04f,838e9ebd-4e62-46d9-ba24-6463e51265bd,5.0,Has Anyone Had a Successful Surrogacy Journey Abroad?,65,1409,13,105.5,2025-04-03 20:17:18
+e69377ec-be07-4faf-a278-3aabab24f737,dbd22b43-8c32-4b09-858b-7ea53ee35921,,Can someone share their experience with surrogacy abroad while balancing cultural and religious considerations?,71,803,1,7.5,2025-03-25 01:30:10
+13cfcaad-050c-4f60-b90c-542cab69d9a1,f36f4603-ba88-42bd-b80a-0969ea9e0647,,"What are the best hospitals and clinics in Japan that provide English-speaking medical services, and how expensive is private healthcare?",30,1432,7,61.8,2025-02-04 12:25:33
+9101d381-7912-4938-a7e3-a21435819355,d6299222-1a16-4466-9c5b-673dc600027b,,Are Gold Dental Crowns in Asia Worth It for a South African Traveler?,15,1265,13,382.3,2025-01-23 07:27:12
+29a18fbd-e2ac-4c44-b3a9-b3d133ca69b5,dfdb1f75-c14a-464d-8d11-b0113af10b33,4.0,Is Cheap Healthcare Abroad Safe and High-Quality?,41,1024,2,85.8,2025-01-30 11:07:55
+ef6c9077-2773-4b83-ba95-301c18f1f16d,c50c770c-3609-466b-b91b-83b70d3c977e,,"Can someone share their experience with low-cost surrogacy abroad, particularly regarding post-birth legal processes?",28,607,4,162.5,2025-02-07 04:09:22
+0a5178e5-0c02-4d12-8dd0-911ee4ce61be,d09415dd-a449-46ed-bac6-75d691a505d9,10.0,How do I find reliable dental tourism clinics in English-speaking Caribbean destinations with no hidden fees?,18,600,15,379.9,2025-01-31 08:43:19
+3f45f47b-c4e9-445c-9bb8-7c825f198634,658f4b5f-60d1-4346-ba59-e7d9645de26d,,How Do I Maximize Savings on Dental Tourism Without Sacrificing Quality?,0,1474,13,235.5,2025-03-21 06:38:04
+76f2cb10-a7f5-41db-9db5-c01b05b13142,563640a4-a33f-4a94-996d-14045aa1ae1e,5.0,Are Low-Cost Surrogacy Packages Abroad Ethical and Transparent?,57,354,4,193.6,2025-02-15 16:40:41
+b9bc69ee-ea88-41a3-8ec4-cfcf426e1c85,3860a870-891b-4bb5-af68-dc93b560bcb5,,How Do I Make Sure My Dentist Abroad Speaks Fluent English?,9,833,9,323.2,2025-02-25 05:12:49
+e3156b17-f6cd-4985-8f63-d87c3ff0ed90,8102f07e-5844-40c4-a4a3-98b0adf045d8,19.0,"Is traveling abroad for weight loss surgery safe, and how do I choose the right clinic?",26,318,8,331.4,2025-04-12 13:45:01
+84df0971-bffb-43f2-800c-a4493b54c4ea,3662a102-dbed-4cac-b76c-cafefddb0acc,12.0,Where Can I Find Honest Reviews of Dental Tourism Abroad?,75,79,9,59.2,2025-02-02 22:49:18
+9fbe3e0b-bb97-4e65-861a-b6a4933a33b4,360f3329-3d43-43bb-8afd-eb2810ec8c5a,20.0,What additional costs should patients consider when budgeting for medical tourism beyond the listed procedure price?,68,614,8,215.5,2025-04-10 01:28:32
+acb203c9-015d-47cc-8b43-b7a58fc656fc,a2dbd416-097c-4063-9e63-44a084b19f6e,,What Are the Biggest Complaints About Dental Tourism?,40,493,3,179.4,2025-01-24 23:34:21
+d26d8627-69f1-4430-a969-71f20b7dba29,0c79ee24-51fc-4753-9faf-e9d37f6d1137,,Can I Find an English-Speaking Surgeon in Bangkok for a Hair Transplant?,55,670,0,26.8,2025-04-12 14:17:20
+4e37f4e0-dd12-483a-bbc1-0c41669bf59e,9940bcd0-a7e4-488f-ab21-30fde5bd3091,9.0,What Hidden Costs Should I Watch Out for in Medical Tourism?,1,576,0,164.8,2025-03-02 16:05:23
+b988c6ac-46bb-4e0e-b8b0-ceae4184e58d,9135b778-d0e6-459f-83bc-8051a9bf2376,2.0,"What is the total cost of surrogacy in Ukraine, and how can we ensure there are no hidden fees?",1,720,7,193.1,2025-04-15 13:32:48
+b04bee7b-05ef-461f-b695-ee7d0ee63ccc,8b07b21c-1b00-4038-88f3-fba899106943,,Has Anyone Had a Great Experience Saving Money With Dental Tourism?,64,216,12,218.5,2025-04-03 02:40:06
+12261f7a-6f1f-49f4-903a-fefa4c4e2100,29470579-7f8f-4d3f-bfab-c5dce5f1830f,,"How can expat families in France find English-speaking pediatricians and family doctors, and does French health insurance cover their services?",61,842,12,43.6,2025-02-17 01:00:08
+090974f9-7d57-4bdb-a9d3-4a9f6e54fd8a,730652d1-f81f-4eb3-ac48-a414e5558c51,3.0,Which International Surrogacy Clinics Have the Best Real Patient Reviews?,51,1164,4,375.0,2025-03-17 18:47:40
+9332d6c8-446d-4e84-b6be-950aefcd2e5d,617e2f97-894b-426b-866a-f277ad85a7e3,11.0,Which Countries Offer the Most Affordable Dental Tourism Packages?,10,1091,12,389.5,2025-04-08 03:04:06
+1fd46911-fadf-4699-8394-3982e93cd821,8a492976-baae-4bc6-b59c-c46499c24549,,Dental professional researching industry standards,65,974,3,287.0,2025-02-06 06:28:56
+6406bf8a-3e17-4974-b7c5-ae1e8afd89ea,bd7d9220-c542-4826-a0fd-ca6ffe13fc30,,What Are the Legal and Financial Considerations for Single Parents Pursuing Surrogacy Abroad?,19,961,2,23.5,2025-03-05 08:28:09
+72605dcb-c3ca-4421-968d-a2f6b6812fad,8f818bf1-f4bc-4b04-bded-c076265fdaf0,,What Do Parents Say About the Legal Process in Low-Cost Surrogacy Countries?,6,839,14,293.9,2025-03-29 01:37:37
+0596826d-c2aa-43d7-8f00-9206abafd9d7,54ce706f-b61e-4aa4-b909-71818c5a1afd,19.0,Where Can I Find English-Speaking Dentists for Dental Tourism?,43,1240,8,214.6,2025-03-17 11:48:53
+d6629837-9a77-4652-b7cf-e86afbdd601b,b8745c33-b9c5-4e89-9527-9bc878b1db2e,,Are Low-Cost Surrogacy Packages Abroad Ethical and Transparent?,16,1085,1,74.0,2025-01-23 07:45:15
+26014a25-cc8e-480e-a562-e52f985359bc,43c7f52a-be04-472b-af97-d1745c724762,,Is it safe to get dental work in Mexico?,68,1376,13,373.4,2025-03-24 22:28:36
+e4c89c94-7ffa-4d88-94bd-b136b9bc0b3f,907c444e-567f-4683-a227-b88daf677cb7,13.0,What Are the Common Risks of Choosing Low-Cost Surrogacy Overseas?,58,188,6,95.3,2025-04-05 23:42:24
+e14d654c-166d-42c6-8f08-2da90f5569dc,17438c56-19d4-4563-b918-9bb92de414e6,15.0,How do legal fees and processes affect the overall cost of surrogacy in different countries?,52,516,9,233.6,2025-03-16 03:30:43
+994ce3e8-2088-4e39-87b8-2d4e6c27158b,f0c614cd-ee08-4895-967c-525f20cd3eed,7.0,How Do I Communicate with a Dentist Abroad If I Don’t Speak the Local Language?,75,476,10,286.9,2025-02-14 16:51:18
+31702d72-f65d-4155-a5de-589def5fc447,05052c93-d3a2-42fd-b05c-ce84f7b9f0ac,3.0,Is Cheap Healthcare Abroad Safe and High-Quality?,26,55,13,61.3,2025-02-21 04:03:27
+bec048ec-618f-4d59-9911-1b6133cb011e,b3f40ba3-fd6b-432d-a459-a447145bc5fb,,Are Dental Tourism Clinics with English-Speaking Staff More Expensive?,23,788,3,199.8,2025-02-11 10:30:47
+42b333d2-9868-4587-86f6-07452c55c904,87d23145-a32a-4a8a-9203-132d5e0d781e,3.0,What Are the Hidden Costs of Medical Tourism in Low-Cost Destinations?,9,693,12,347.8,2025-02-26 02:52:17
+89df2112-0fb6-4658-8a95-19db1f5b2982,1f93423c-8c5f-4cc6-a7e2-09dce61c8ebe,10.0,What Are Real Patients Saying About Cost Savings With Medical Tourism?,26,552,5,304.2,2025-02-28 06:26:33
+89fb325a-5857-4fb1-8c50-1382085d81cb,1ddcff0b-27d8-41da-a993-385011ac5a09,,Where Can I Read Verified Patient Reviews About Surrogacy Abroad?,68,233,12,122.9,2025-03-26 10:09:40
+596557fe-516c-4a65-b20e-28dc68d82e8b,3a93e79e-ae30-4284-a768-fb5d7945a3c0,,How Much Can I Really Save on Medical Treatment Abroad?,11,657,4,270.6,2025-02-28 00:08:29
+560c91de-f8b9-41a3-89b2-2603f7802309,05b26876-81be-481b-81fe-b60a9a5a1b12,3.0,Are Online Reviews of Dental Tourism Clinics Reliable?,27,198,8,219.5,2025-02-21 19:50:54
+15bb2c58-67cf-4f54-9795-413bb98486f4,a55a852a-6335-4e8b-ba23-3caf3ef34a83,,Which International Surrogacy Clinics Have the Best Real Patient Reviews?,23,411,5,390.0,2025-01-26 11:49:19
+2c40e081-fbe9-47e9-a811-514842c11924,e9fcc79b-2371-4a1f-87a3-49f8a1c4cbb8,4.0,Which Countries Offer the Most Affordable and Trustworthy Surrogacy?,52,1366,10,228.9,2025-03-15 11:24:08
+a4c26edc-7cca-4488-8187-b3409338e6ed,3fc1b013-c4c5-4f70-8901-3b09192d2120,9.0,How Do I Maximize My Savings When Getting Medical Treatment Abroad?,61,1396,13,152.5,2025-02-17 21:57:35
+ce6934f9-fd9f-4719-a5be-61e0cbf866d9,c3ab0e82-9d85-4341-b67b-a04164df6ffe,,Does Insurance Cover Medical Treatment in Another Country?,11,1095,2,390.7,2025-03-01 18:32:14
+c561a44d-deba-4dd1-975c-64b97a3dbe23,7fbebdc4-40f2-4e56-b928-8ab2deb9b6d5,15.0,How Much Can I Realistically Save by Getting Dental Implants Abroad?,16,814,4,358.5,2025-02-10 15:25:45
+d5500957-f8d5-4b63-b148-4462b4176223,73a1d06e-9f36-4017-b8e2-cd850ac41617,12.0,How do healthcare costs in Turkey compare to Australia for specialist treatments?,45,312,4,319.2,2025-04-12 22:34:02
+65fa9b3c-5e4c-42ed-8300-08016d35c6e8,e611d543-a9db-44d3-a9f5-665775b7beea,,"What’s typically included in an affordable dental tourism package, and how much should I expect to pay for common dental procedures abroad?",59,1140,10,243.2,2025-01-19 04:28:14
+a0ffe2d1-94f4-4293-bcdb-d02cfc844681,d87abdf0-2c08-40e9-83b9-d660f2268a65,10.0,How can intended parents verify a surrogacy agency’s pricing in Mexico before signing a contract?,24,1301,6,156.1,2025-03-21 15:22:40
+49d4ef58-691e-49b5-a8c9-add022fba5ee,87743fae-0a5d-434a-b16b-4656e2a40a7c,9.0,What’s the Catch with Cheap Dental Work in Other Countries?,46,497,14,210.0,2025-01-17 23:30:38
+d245f1a4-5d56-4d82-8464-623be460e07f,c8358f5b-30f5-4748-b2cd-9adfb71e133d,,Has Anyone Had a Great Experience Saving Money With Dental Tourism?,52,1244,12,93.6,2025-01-31 23:26:51
+7ed2553f-577b-4c30-8c1c-fc6fba36fc01,a61801f4-5cc6-4da7-b603-d49cbc24cb38,,How Do I Communicate with a Dentist Abroad If I Don’t Speak the Local Language?,18,87,3,238.7,2025-03-02 20:38:04
+019219d4-178c-4148-afd9-a35671489f7b,499563e6-4329-4087-bf3b-ee117683896e,15.0,What Do Patients Say About Their Experience With Dental Tourism?,55,105,1,40.8,2025-01-28 05:50:10
+82662642-9cb7-44fd-bc10-42d7028e9ae8,3c24ebe4-3a6d-4284-adb8-543f6f1fb247,,Can a Malaysian Dental Clinic Help a Type 2 Diabetic with Damaged Teeth and Travel Phobia?,56,1363,14,203.1,2025-01-29 23:30:24
+609378d5-8ac2-4ea5-8127-474b8b741bb9,c4c0df8e-bd5e-4074-8eab-98e7123dd2cb,12.0,What are the best patient-reviewed dental clinics in Mexico for high-quality care?,38,1236,12,43.1,2025-01-29 00:30:38
+80a5353d-4290-4d0c-a98b-6748b4b70f15,0a9dafca-34ad-443c-ba1c-a2585ddbadc0,14.0,Are there any English-speaking surrogacy clinics in Mexico that offer affordable pricing and excellent care?,4,1171,3,151.4,2025-02-23 01:35:05
+d2ee2af4-0cbd-420a-ab03-ddaddd463ed7,d7c43538-c5ae-4b87-bdc9-13c04789e625,,"Is Surrogacy Abroad Truly Affordable, or Are There Hidden Costs?",50,238,8,258.8,2025-02-02 22:48:51
+da132708-87bc-4de3-9a13-c16111da35f1,61446066-6c99-4480-a656-81255b3e7a9e,,"How much do dental implants cost in Costa Rica, and are they as durable as those in the U.S. or Australia?",7,1190,5,300.1,2025-03-27 08:45:44
+0ed07477-1d99-4a7a-bdca-1a7e6b02067a,dd4a4c54-0ebd-4f30-81fa-6f95c7138a74,16.0,How do I find an English-speaking dentist in Costa Rica for affordable and safe dental treatments?,58,1358,8,91.1,2025-03-17 23:54:16
+9eb10a41-a663-43a4-baa3-f7582385b98f,8c922cf4-0aae-4b50-9bbe-74a0f4c4a1b2,2.0,Has anyone traveled to Thailand for dental tourism? How easy is it for English speakers?,5,1399,14,115.6,2025-02-21 12:15:36
+98ecbe73-514f-4dc4-bd2b-cdb304ec4aa2,b581c08f-5294-47b4-8bac-cc3e50e5a7af,11.0,Social worker advocating for vulnerable populations,29,217,0,143.7,2025-03-16 00:42:27
+bb1a6c29-34ba-4943-b0a6-2c9c9a645832,f7b77885-d210-4a8c-8566-b885bbb1c77a,,"What are the top medical tourism countries for cancer treatment, especially for advanced therapies like immunotherapy?",38,6,6,155.2,2025-03-02 02:22:07
+056acaa5-dbd2-4844-91e3-9751150c8ce6,5d4299fe-7f33-45ac-bfaf-e24f6681ccd8,,Busy professional seeking convenience,38,93,12,385.5,2025-04-11 09:27:39
+d0a5287c-82ad-41a6-8bdf-27e2d6066483,85b3e209-bc35-4509-b4ff-4c65f8de1bfa,20.0,"Are there English-speaking surrogacy clinics in Eastern Europe, and what are the typical costs involved?",9,216,6,386.5,2025-02-03 13:38:15
+cebc5800-9ea2-44ec-b9c2-21e6b1dbc12d,71252b42-ce8d-4644-8568-52369b6bb22d,,Medical student exploring healthcare disparities,20,959,8,397.9,2025-01-28 11:31:01
+5988c7d8-de03-4e9c-bcff-93a941d7db68,ef35221c-f5ca-400f-9ca5-232657025b81,,What are the top medical tourism countries for affordable hair restoration and how do I ensure the clinic’s quality abroad?,56,921,3,267.6,2025-03-12 19:50:05
+6fcc0e8e-6d94-4b47-8030-0ceaede2127a,4c94018e-cdd1-4aea-9705-02b0bd96747b,4.0,Is Cheap Healthcare Abroad Safe and High-Quality?,44,563,4,216.6,2025-04-07 01:07:25
+33b24a41-a2c8-4961-a387-d2fb50dbef2b,a2ef20b8-7f83-4e2f-b88d-accf7fb26d72,3.0,Are the Positive Reviews of Dental Clinics Abroad Trustworthy?,4,736,9,78.4,2025-03-10 01:56:53
+f77ff713-e568-4beb-9e18-15d74c18289a,ac7b5913-bb85-41c7-b725-5997b09ffcab,,What Are Some Negative Experiences with Dental Tourism?,18,72,7,395.8,2025-04-17 14:42:48
+a253d886-ec08-4fe8-8a43-754ea613aff2,ce6f1972-331b-4cd8-963a-3bd5f86a2fb9,1.0,Can I Trust Online Reviews of English-Speaking Doctors Overseas?,4,1029,7,142.3,2025-04-09 11:02:47
+9614ba3d-4cc2-42b2-8336-a068d3aa31ab,885dde23-fe32-4a75-b7e5-8055c7ad8556,,How Do I Verify Real Patient Testimonials for Dental Clinics Overseas?,16,101,10,21.3,2025-03-30 13:43:42
+9e752ec3-a185-40a2-9c78-4bc10c858ace,8302f7b7-89a2-4691-a653-444e38f73ab9,,Are Dental Tourism Clinics with English-Speaking Staff More Expensive?,30,28,8,204.9,2025-01-29 16:06:39
+2ffa5bde-33a0-4f15-9e0f-345dccbea9ca,238214bd-3146-4761-8825-5342d7f1e7d4,20.0,Are English-Speaking Surrogacy Doctors Overseas as Qualified as Those Back Home?,1,84,4,351.0,2025-02-11 00:06:13
+6a43c949-7caa-4764-b9fe-716f4991a1bd,96cef752-3fc2-4bb8-b154-1cde6c067b24,,What Are Some Negative Experiences with Dental Tourism?,47,915,14,395.1,2025-02-17 17:42:17
+ffbc3729-62a2-4269-9cdf-568163a43f7b,b0d36e46-825f-4355-8f33-973f3ace4fe0,,Are there any English-speaking surrogacy clinics in Mexico that offer affordable pricing and excellent care?,65,286,3,44.5,2025-04-01 14:57:47
+78e8c897-4fd9-4db7-8194-8713393dc53f,ad68c618-6749-4aa9-aae5-5186b7e5f72e,12.0,How Do I Communicate with a Dentist Abroad If I Don’t Speak the Local Language?,64,903,0,210.3,2025-03-28 21:35:02
+97bf7a6c-6a01-4698-9a58-61710d621f80,5584621d-42c1-49c5-a8bd-9eedf967a048,16.0,"As a business owner with a busy schedule, how do I balance the need for dental care and the cost of a dental vacation without disrupting my work commitments?",7,1169,14,6.1,2025-03-25 07:43:07
+59017843-d5a9-4dc5-847a-3dbc92c8c6b0,60bf46c1-bbdf-44a1-8c8e-429d54040ac6,13.0,How can I negotiate the best price for medical tourism procedures?,48,1391,1,349.2,2025-01-17 16:18:40
+b97599cd-4ae8-465d-86b7-80a91d3e5630,6d7738ad-dc32-43f4-93ce-7d77895ebe9f,5.0,How Can Same-Sex Couples Find Affordable and Inclusive Surrogacy Programs Internationally?,30,720,2,227.7,2025-03-07 02:56:50
+6bb6358f-acff-4848-82d5-74b3d353fafe,54fa4868-55f8-4986-8533-322ffb51cc1d,,What Are Some Negative Medical Tourism Experiences?,7,617,7,64.6,2025-02-11 11:36:24
+96a6d1e8-213b-476c-a0c3-ab4710a51664,40acfdb6-d81d-48a4-8880-37c389aded51,,How Do I Know If Medical Tourism Reviews Are Real?,64,835,15,74.6,2025-03-13 15:21:55
+1072a0b9-e675-4437-b892-4d01947f4ebb,a46e52f9-c503-4f1b-af61-94ddc24ac373,15.0,What Are the Best Countries for Surrogacy With English-Speaking Doctors?,14,632,7,75.6,2025-03-29 21:47:36
+988aca5d-0a26-415b-8d82-041bebe69e69,3338eb54-43ba-4384-a519-4e837a83bd37,8.0,How do I evaluate if an affordable dental tourism package is a good deal or just too good to be true?,17,80,15,188.0,2025-03-14 13:48:41
+2689ed8d-766a-4de9-b552-18eff36be26e,81007dae-6501-4035-914b-e538d64d468c,,Are there any affordable dental tourism packages that combine dental care with a vacation experience in popular tourist spots?,54,1455,11,117.6,2025-01-28 21:22:39
+d782c4aa-a259-4891-9636-ec9ba80d6b56,5a87f228-1070-45bc-b8c5-5115b59a8073,9.0,"How much do affordable medical treatments cost in Turkey, and what are the safest options for international patients?",70,269,12,144.0,2025-01-27 03:29:58
+2d0d5ec5-514b-4b7a-9613-c68791c3c94a,7c700a20-5a27-44a9-9d12-c49f1008e914,10.0,Where Can I Find English-Speaking Doctors for Surrogacy Abroad?,48,630,14,169.7,2025-01-17 19:53:56
+00756670-fe23-47fd-b326-76c439ea69f9,1f0cc87c-bbb3-43aa-827e-59710dcab39c,,What should I know about the risks and benefits of getting dental implants abroad?,62,391,15,145.0,2025-02-08 21:56:22
+89c5fc2b-e434-40d5-9d9f-0e578b1e5b37,216d8d84-e8c0-4c6a-89da-ae12babcb940,,Which Dental Tourism Destinations Have the Most Positive Patient Reviews?,57,866,2,87.4,2025-04-14 11:28:42
+6c279eff-74b4-4734-9ca8-939109acb41b,b5fdac1b-9a6d-47da-b0dd-33c46eb887fd,5.0,Which Country Offers the Best Affordable Dental Implants Without Sacrificing Quality?,51,515,12,225.4,2025-04-12 14:04:05
+1aaf2e3b-3e20-4015-86d5-1b1debe23910,d8ba6d80-f9e9-4366-89a9-7fe4604a4abf,,"Can I get teeth whitening and a few fillings done through an affordable dental tourism package within $1,500?",71,1260,4,111.0,2025-03-27 16:52:49
+5d2e89d5-fa09-40f8-a006-74ddbd9448d9,d946a733-43a9-466d-b574-b8cc26b17c78,,"How do dental implant warranties work when getting treatment abroad, and what happens if something goes wrong?",41,177,14,65.9,2025-01-23 15:47:14
+0147d209-6140-4d8b-94b7-d0feb860f0c3,4fac5ecd-a8b4-4ee0-a62f-12f3e120e251,12.0,How Do I Know If a Dental Clinic Abroad Truly Offers English-Speaking Services?,6,1028,4,277.8,2025-02-22 08:52:08
+b274feee-01b5-4f45-88e0-af9db9f34e78,1ba3bfe2-7b0a-4f91-a8ea-2acffa754992,,Healthcare advocate researching on behalf of someone else.,9,1327,11,334.6,2025-03-08 02:32:16
+350a3741-b76a-4bf5-8fb6-669fe010ca3c,fd1cb98f-1c75-485b-a412-b2bc51658022,,"What are the best English-speaking dental clinics in Hungary, and how does the quality compare to the UK?",15,792,13,88.9,2025-02-27 15:41:02
+d28cb425-f415-4a69-be3c-3eb4eed638af,95b95a5d-3fb3-40ef-95b1-082fa780a9d8,,What’s the Catch with Cheap Dental Work in Other Countries?,52,1135,10,289.4,2025-03-10 05:20:40
+1cf346c3-6869-4f12-98bc-7659aec60181,028be3db-64ee-4209-9915-9fb439b32cea,4.0,Are Low-Cost Surrogacy Packages Abroad Ethical and Transparent?,3,138,1,77.4,2025-02-17 08:40:07
+fc64f964-70a9-4a05-8ae4-7d31336fee79,763c6762-758b-4b2b-aa20-cad187196598,8.0,"How much do dental implants cost in Costa Rica, and are they as durable as those in the U.S. or Australia?",5,1087,0,63.1,2025-03-12 11:51:11
+84bc5340-bd69-4c3b-8f5a-529da0d264b3,341eb780-cddd-4af8-a9d4-70eedb37f2b3,,Can I Trust Online Reviews of English-Speaking Doctors Overseas?,8,1444,11,345.8,2025-03-24 10:53:17
+8019df4e-20ee-405f-8265-9e9bc6e56c0f,e88d5e4d-f1f5-40d1-a8a0-b37bd31e036b,2.0,What Are the Best Low-Cost Medical Tourism Destinations for Affordable Treatment?,19,100,10,108.8,2025-02-05 07:30:33
+a70a2fc9-99dc-4387-90a7-5c3de5334d1c,40ea95d8-5e95-4047-856e-bcc74e2bb2ec,,What are the cost differences between healthcare in Mexico and the U.S. for common procedures?,44,866,1,270.4,2025-04-07 04:59:44
+ee9ebf26-0833-4a8e-b4d2-96e77853c70d,a8e91f3e-62a3-46b7-aa0a-e7f51bfc2682,2.0,Has Anyone Had a Great Experience Saving Money With Dental Tourism?,50,566,12,258.1,2025-02-25 01:59:09
+f005e15d-bf20-45ed-a9b7-03d84f671e1b,86eab79e-faed-4354-aa15-7f7fbbdf5b49,19.0,"How much do dental implants cost in Costa Rica, and are they as durable as those in the U.S. or Australia?",23,21,0,129.0,2025-02-18 08:12:11
+f7d43ed8-f7c9-4b25-ab1f-5250615e0b6d,2865f03c-2410-495a-9b46-007529e7e26f,1.0,What Are Some Negative Medical Tourism Experiences?,71,13,3,266.0,2025-03-02 01:10:44
+f4a85cf7-fcec-4ae2-af43-3eae88b21780,a26a0772-8cca-4815-bd2d-6d906a6e53d4,18.0,"What are the best countries for affordable but high-quality medical procedures, and how do their healthcare standards compare?",11,59,13,292.6,2025-03-06 08:51:51
+13899fce-cba0-49d6-8e00-c543dd46d04a,6f0d2815-538c-45dd-b438-5a261cd3091a,4.0,What should I know about the risks and benefits of getting dental implants abroad?,44,1202,12,380.1,2025-03-16 15:24:12
+31c17f23-da28-4b16-9bb7-35aac0d17784,b88c6249-cf9c-44e4-ac04-95c4ddd47ea2,11.0,How Do I Know If a Low-Cost Medical Tourism Destination Offers High-Quality Care?,0,971,11,251.8,2025-02-23 16:47:21
+0a63eab1-0a22-4cb0-9749-df1430ce2b8e,80be026f-243e-4903-bc1d-9adc66c3a5e3,2.0,Has Anyone Had a Great Experience Saving Money With Dental Tourism?,72,648,14,53.3,2025-04-16 16:08:10
+602e5d07-e741-44e8-83bf-1fe903da4480,3a8a9ff8-0c85-4fe7-b7b4-f8040a521e4d,9.0,How Much Can I Realistically Save by Getting Dental Implants Abroad?,48,712,2,221.4,2025-02-08 14:51:25
+b06c5715-ada4-41c8-b4e9-ae4d1faaf323,8f465c4d-9781-406a-96f7-6b88d5bf37e9,,"Why do surrogacy costs vary so much between countries, and which locations offer the most transparent pricing?",25,916,2,236.4,2025-03-07 05:35:17
+3e06bac5-eda5-46d6-b21c-84b18a724323,f5b58142-cd41-4814-9592-8b967a55ef73,4.0,Can someone share their experience with surrogacy abroad while balancing cultural and religious considerations?,23,906,9,165.5,2025-02-19 12:40:42
+a4969b38-9efc-4494-8b85-7629e1c541d8,253715ef-f95c-4fe5-b7dc-56b9d2717f85,6.0,Are there any English-speaking surrogacy clinics in Mexico that offer affordable pricing and excellent care?,59,1280,10,5.2,2025-02-02 01:56:39
+c8a5f15c-03ca-4e91-af50-a7dd1341c4f1,d3b33082-df4f-4449-979f-c65358a25687,12.0,How do I evaluate if an affordable dental tourism package is a good deal or just too good to be true?,24,495,10,57.0,2025-03-19 14:11:20
+f5ccf774-7486-4fb7-b82b-860c53018924,b003e218-8a0a-414e-b640-33d92d8c9c25,,Can someone share their experience with surrogacy abroad while balancing cultural and religious considerations?,17,1137,12,310.1,2025-02-03 13:49:28
+264fa6a3-ad57-4cce-9712-e8879ba09b07,7891a5e2-a75d-4459-93f5-b5d899555c8e,,Which Countries Offer Ethical and Cost-Effective Surrogacy Programs?,68,359,8,376.5,2025-02-02 19:15:39
+c1337c4e-db93-4653-9f5e-193cb2cf2683,3e0e787a-6645-447b-977e-6ee08d1aa095,6.0,What Are the Most Affordable Countries for Dental Tourism?,5,1407,1,145.2,2025-02-15 01:08:20
+298c47b5-321e-4333-8419-959cd440ee23,432768e8-0f98-4f8a-ac2a-5ea09fd7518f,10.0,What’s the Catch with Cheap Dental Work in Other Countries?,69,174,8,310.1,2025-04-10 13:11:30
+5ca47e17-c176-4f31-a731-f8e83177437a,9b4bef67-58e8-4e8c-8464-432ebf9e0e7e,14.0,Which Dental Tourism Destinations Have the Most Positive Patient Reviews?,3,668,10,264.2,2025-01-19 17:15:15
+c6d420cc-4856-45c1-8333-8cffe4676ceb,ef7a19e4-320c-4d13-9d9b-175cb81345ce,,How do I ensure the surrogate's health and well-being are prioritized at low-cost surrogacy clinics abroad?,55,925,4,79.3,2025-03-15 23:19:11
+4dffb694-acab-4eee-8d5c-682f6ce6a1cf,4a15de81-49ac-445b-b042-57e5d5f74f62,7.0,"How do same-sex couples find affordable surrogacy clinics overseas, and which countries are most welcoming?",59,59,12,125.7,2025-02-04 07:17:05
+fda00f2c-3c83-426f-821b-b19bb47c98d0,3076ee25-751e-4895-8206-1d8ad5b1ccc8,,What Should I Expect From Affordable Surrogacy Packages Overseas?,39,413,6,370.8,2025-04-01 20:54:25
+e6750ef5-7a72-4474-be30-6b70b218db8e,b9f866f5-2f38-43eb-aa3b-adf6c671fa1e,15.0,What Do Patients Say About the Aftercare Process in Dental Tourism?,13,1036,10,46.0,2025-02-19 22:21:21
+124856bd-6646-4295-9c85-b5cf48524dfd,22ba161f-3fad-4fb5-bed7-3237da8f65cb,3.0,"How can expat families in France find English-speaking pediatricians and family doctors, and does French health insurance cover their services?",50,1383,9,126.6,2025-03-31 07:59:18
+82a96921-ba4c-4729-8afd-59c14b18e2e7,51920b19-ad75-4831-bd38-79b099e94e2e,,What’s the Catch with Cheap Dental Work in Other Countries?,74,1235,14,187.1,2025-03-03 01:10:08
+4f856337-973a-41f5-a6ad-169bb5135be1,82af61c7-b60b-44bd-b444-c06f59eec51e,6.0,How Much Can I Really Save on Medical Treatment Abroad?,6,298,11,255.3,2025-02-19 08:49:42
+bd449216-d166-47df-9d99-625ae9d10990,693723be-b42f-4d15-8db3-e54d024d4678,,What Do Patients Say About the Aftercare Process in Dental Tourism?,69,1078,13,185.0,2025-03-14 21:25:37
+cc968609-7f50-4bd1-9f94-f5304b8b4136,86b330ac-44c1-440a-b24c-e75d92a9d41a,20.0,How Do I Find the Best Budget-Friendly Hospitals Abroad?,66,1005,7,199.4,2025-04-17 08:49:54
+1ae7f349-6b6d-4bfe-9646-58c4b24c761f,c00b4770-cf9e-4e00-8872-fe12c8138f92,15.0,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",1,80,13,391.6,2025-03-10 11:26:40
+f13fbf2b-ce8b-43a2-a2b1-c2b0261cffa3,927e8d86-f7f2-4d8a-89da-efd5dd236f7a,,Where Can I Find Honest Reviews of Dental Tourism Abroad?,35,11,8,6.4,2025-03-05 07:33:13
+0b54b2ca-62e4-443b-92b3-d286ceab03fc,513d69de-0a4b-447a-b058-af925677ea76,,Can Someone Share Their First-Hand Experience with Dental Tourism?,19,745,8,173.8,2025-04-05 06:43:48
+de3b9434-ba51-497e-84de-f695cfbad895,f01c476d-0811-409d-b153-d542e6b433e3,15.0,How Can I Tell If a Dental Quote Abroad Is Too Good to Be True?,2,1248,9,136.3,2025-02-18 17:59:49
+c4532b7f-5946-432c-8a51-adadc4d50c6d,216a5774-85e7-45e4-bd65-ea129fd74ea7,6.0,"Can anyone recommend English-speaking surrogacy clinics in India, and what’s the general cost range for surrogacy there?",62,594,13,149.6,2025-01-27 22:42:40
+9a5976a1-3770-413d-a055-273db2a0f003,e218a46c-e018-4b49-a729-d280e6ed0ca8,,How do healthcare costs in Turkey compare to Australia for specialist treatments?,50,1241,13,278.5,2025-03-01 07:23:02
+76883384-d0cc-40a8-a530-efa3729f6e1a,463596bb-fa4d-4c4a-87f3-c211ac245b09,4.0,Can I Trust Online Reviews of English-Speaking Doctors Overseas?,6,380,10,272.9,2025-02-17 08:09:18
+7f1608dd-e4ed-4301-8630-5a71308e04ea,10b946ca-7484-49c1-a650-f8c3c50628c9,,Why is Mexico becoming a popular destination for low-cost surrogacy and how can I ensure transparent pricing?,39,449,0,357.4,2025-04-14 18:09:48
+fe209e22-9961-4994-9a8d-4522c5de590d,2ce0e8d8-d793-457c-90e1-b34ca056b804,,Are the Positive Reviews of Dental Clinics Abroad Trustworthy?,35,526,11,40.9,2025-02-07 21:22:51
+c0271ba0-603e-499a-8375-9c26ebae3b1e,77bf2139-dd49-4e8b-bee0-b36f0bec6a7d,1.0,Will an English-Speaking Dentist Abroad Understand My Treatment Needs?,52,1329,12,220.8,2025-04-11 07:10:55
+bd865c38-7db3-4f42-9f2c-0e43f7ce11b5,9d18f579-fd17-4258-a1a4-60eb081e3e47,16.0,"What’s typically included in an affordable dental tourism package, and how much should I expect to pay for common dental procedures abroad?",41,1451,0,319.4,2025-03-20 00:27:33
+0a5ba93c-1a84-49bb-8a08-6226c8db6082,ede38a4a-7778-461e-bbd7-869641b1241a,,Where can I get a dental implant in Mexico with transparent pricing and no hidden fees?,20,1087,9,189.8,2025-04-08 12:46:38
+1f461ecd-7862-44b9-aecb-cfe210383bc7,8879df70-88a6-4403-9a5a-b2a720a82dd6,,How Much Can I Really Save With Cheap Dental Tourism Abroad?,65,758,2,64.6,2025-03-02 01:03:01
+6b860b17-d1ce-4cf9-94c1-dfdd7558e6f5,f09fc939-0459-4341-8955-392d6590278e,,Will an English-Speaking Dentist Abroad Understand My Treatment Needs?,70,260,11,218.7,2025-01-27 11:51:32
+d9eb5575-c598-46bd-856c-7c43f405c6b1,db55a07d-5a6f-4b76-a387-e7dc3e235b33,,Why is Mexico becoming a popular destination for low-cost surrogacy and how can I ensure transparent pricing?,48,894,4,386.4,2025-02-26 11:57:36
+68c05887-9c82-4fa0-82de-76107c8f52ac,b5d55de4-ce7f-4ebd-ba78-bdb5f65d8849,6.0,How Do I Find Reputable Agencies Offering Affordable Surrogacy Abroad?,33,696,0,68.8,2025-01-27 10:19:37
+c47c44f2-0743-4571-afef-8674602f072f,cfb779ff-dfdb-43c2-806e-eeaf9ccc21e4,,Where Can I Find Trustworthy Reviews of English-Speaking Doctors Abroad?,28,203,13,277.3,2025-02-27 13:49:37
+4e6173bb-29a0-49bc-8ae2-bcb91cbb9bef,2d6f66bd-2a95-4e51-9c51-9e23a039597c,17.0,"What are the best hospitals and clinics in Japan that provide English-speaking medical services, and how expensive is private healthcare?",12,1218,4,206.3,2025-03-29 22:13:52
+19475abb-1de8-45e6-a606-09816fd75973,03c08d60-2822-4ff9-9857-2ca819e6e3b2,,Are Low-Cost Medical Tourism Destinations Safe for Surgery and Treatment?,19,483,4,370.5,2025-01-28 21:15:17
+551a9ec1-569b-4a2f-b34e-9d856c481842,2b5912b6-456c-44d5-b03f-11be50d177d2,4.0,What Are Some Negative Experiences with Dental Tourism?,31,1349,12,356.6,2025-02-13 21:47:36
+6c4653bc-5ded-4f89-ba58-a3482b513d87,d4609218-d0d4-4201-9a3d-6ea6c06ddb74,,Are there any English-speaking surrogacy clinics in Mexico that offer affordable pricing and excellent care?,69,1230,14,301.4,2025-03-13 03:03:45
+eff47c77-562f-438f-8924-90676b955730,27b28710-f70d-409d-91dc-a656298ee2d6,18.0,Which Countries Offer Ethical and Cost-Effective Surrogacy Programs?,69,104,5,210.2,2025-01-31 13:12:43
+ab49f106-7680-473e-b5d5-7ec16069ec30,5e05428a-2a8e-4e36-8b52-2bd87198c9ee,,How do I find honest patient reviews for dental implant clinics in Turkey before booking an appointment?,66,537,13,183.3,2025-03-24 03:47:39
+cb16365f-290c-48a6-8652-74a6cd7b86c2,13ba62ee-41cc-4cbc-8b3f-7c429a2edd8f,,What Are the Best Destinations for an English-Speaking Dental Vacation?,5,862,8,254.7,2025-02-23 20:37:03
+d634ab96-1e85-4301-b9c4-b8b1ead99ba2,b4028bd6-2a5a-4a06-96cb-db56bdbce827,19.0,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",62,1394,15,387.5,2025-04-09 20:42:41
+6eb85771-369b-488f-9d9d-2456fecc57b4,d3dfbee8-fd5e-4a6b-9d7e-79ce0223e704,,"How can I find reliable bariatric surgery clinics abroad that have genuine patient feedback, successful treatment stories, and a high success rate for long-term weight loss?",62,627,14,48.3,2025-01-22 04:31:38
+0253c026-f55e-4450-855e-8256fdf283d0,d30114df-6faa-49b7-885e-2716c423d5a0,,"What are the best English-speaking dental clinics in Hungary, and how does the quality compare to the UK?",66,640,15,311.0,2025-02-07 07:39:04
+b0ada635-69c6-4227-9d4e-0f7385292f3f,72586567-e5f2-4b4f-827c-cc03be7a22d7,20.0,Do Patients Regret Choosing Medical Tourism for Their Treatment?,23,1318,15,12.0,2025-03-25 09:44:33
+375ec387-b6c3-4867-a666-5e51cbda0fd2,080fb6ac-96ea-4bde-891b-dd15152c7075,,How Do I Verify Real Patient Testimonials for Dental Clinics Overseas?,70,1439,3,322.7,2025-04-07 12:14:43
+32557313-26ef-4a78-a0d4-776c62be6777,0b1c8e7d-5462-4eab-85f2-dc6f063f798e,,Do English-Speaking Doctors Abroad Provide the Same Level of Care?,51,938,10,108.5,2025-02-13 08:51:20
+94294f05-bdfd-4105-82f3-bad0332424f5,b1e545ca-7f18-4006-a331-8845f9f2f99b,,Where Can I Find Verified Patient Reviews on Affordable Dental Implants Overseas?,74,854,9,249.7,2025-02-08 12:15:26
+f4be3003-d660-4e7e-9468-da72895128c8,3b5db293-9643-4a7a-9c90-ad7e52cd1e06,5.0,"Can I Get a Cyst Removed on My Shoulder While on Spring Break in Cancun, Mexico?",37,531,11,87.1,2025-01-28 17:37:17
+746c0a50-b4f7-4f2b-8319-fc336a351eab,9e1bec2f-cb4a-4a25-9291-e858c159c547,13.0,Can someone share their experience with surrogacy abroad while balancing cultural and religious considerations?,52,681,13,130.3,2025-01-22 23:14:42
+fa591be4-fbbc-4849-a8a5-15bc0982eadb,b3ec1b98-048b-477a-a151-c44ee5718e55,,How do I differentiate between fake and real patient feedback when reading reviews about medical tourism clinics?,45,418,1,11.5,2025-02-15 14:01:34
+6feae0e1-916b-4712-bea9-6df467b84215,ccc8a8da-85e4-4e97-93f4-30c837266c1a,11.0,Do Patients Regret Choosing Medical Tourism for Their Treatment?,11,497,7,198.4,2025-04-04 17:30:33
+98b7c881-9faa-42f2-9da0-80540a158bfe,719d081a-10c3-46f4-90e7-3d78276d852b,5.0,What Hidden Costs Should I Watch Out for in Cheap Dental Tourism?,20,1112,12,375.5,2025-01-27 03:44:42
+f2d3ec49-98b4-4c55-93af-31a70cca16d0,9bf04c4a-68cf-4379-872c-ffc48f511669,18.0,Busy professional seeking convenience,50,185,2,82.7,2025-02-05 15:24:24
+b11703c6-5315-4f76-ad84-41f4dc1b7457,b2e00779-1749-4c70-9444-254b6f105649,7.0,How do you verify if an English-speaking dentist abroad is qualified and trustworthy? What should I look for to avoid bad dental work?,39,1361,7,164.8,2025-03-07 19:54:32
+3916091f-44fa-4a4c-9f34-4ac40bed4259,18ed39b2-bfd5-436b-97ec-c9c731d43373,8.0,What Are Some Negative Experiences with Dental Tourism?,60,1092,7,9.3,2025-02-17 20:10:52
+2ddf1981-89ec-4070-80fd-ddc3a15cce3d,aaabeeb3-e0ef-4dfd-9d93-5d6fa0ae3943,,What’s Included in Cheap Dental Tourism Packages?,34,705,2,335.5,2025-04-08 08:24:12
+b09e7b3e-2bdb-4ebd-a49a-3b5a120626cd,314a0316-8691-4d2e-b80d-1bc6d0bfc0e6,,"Can I get teeth whitening and a few fillings done through an affordable dental tourism package within $1,500?",56,111,12,298.7,2025-02-27 02:05:07
+396e4edb-bab2-4553-89ba-6930d172f1eb,357e4130-60d8-41c6-b618-60f00bbcdf03,18.0,Is it possible to get detailed patient feedback from people who have undergone the same medical procedure in medical tourism?,12,56,1,263.4,2025-02-07 10:43:55
+41ec9cb3-701d-434c-9ad8-c3665d6999fc,05cb450a-8fea-41f3-ab17-f6db56e71160,,How Can Same-Sex Couples Find Affordable and Inclusive Surrogacy Programs Internationally?,9,732,14,142.7,2025-02-14 23:29:03
+28d07bf0-55c9-4b9e-b6de-f5d4e63b4794,cc15e4ae-b63e-4bc5-8f58-2c7009a23bbb,,Can Anyone Share Their Personal Experience with Dental Implants Abroad?,25,821,14,123.9,2025-04-02 03:28:48
+23157b90-ccdb-4f1b-b5cf-25a5157ea4bf,45e52a26-9b34-46ee-a42c-7d75ecd32e1f,,Can Anyone Share Their Personal Experience with Dental Implants Abroad?,52,1395,3,305.0,2025-02-12 01:34:45
+5001363a-cd30-4861-8097-8c92e6d9400c,989028b5-b7a5-4b0b-8e95-86119746350a,10.0,How do I find honest patient reviews for dental implant clinics in Turkey before booking an appointment?,0,589,15,48.1,2025-03-24 12:14:04
+6ba92242-71bd-46ae-9c26-090310d1bf23,cc60eca0-406d-46ee-900e-ee9fd330ad97,2.0,Has anyone traveled to India for dental care? What was your experience like?,56,1227,4,353.4,2025-01-17 12:34:04
+cb12c4cd-60f1-4df5-a790-6d089c3e2408,426ee972-0201-4790-94fa-f5ba7366effd,7.0,Has Anyone Had a Great Experience With Cheap Dental Tourism?,50,447,10,60.7,2025-01-20 15:00:21
+95c8d3f5-15e3-4e49-a9f6-c0e9313ea25e,d3e4818b-7b1e-4881-a0ae-944ce7f87919,15.0,How do you find the best price for medical tourism without compromising quality?,51,1203,11,74.9,2025-03-15 11:23:40
+475b48c1-2056-47f5-a9d9-91ad890a4f18,188e87f6-f76c-4b9a-93af-b63cfe14655f,10.0,Are Patient Reviews of Dental Tourism Clinics Trustworthy?,50,1091,11,277.4,2025-02-20 19:55:53
+9217fcff-e3d3-420c-9b53-143b801bacdf,9a2c7f97-b1e3-438c-b5cd-c2a2231c0c26,20.0,Are Budget-Friendly Medical Tourism Packages Safe?,32,404,9,189.1,2025-01-22 02:22:36
+928c33bb-b052-4315-a1e8-09210c7deded,d890a8c1-73c1-4ba4-8f61-049fdc3bd32d,20.0,"How can I avoid medical fraud in Turkey when getting a hair transplant, especially as a traveler?",32,44,11,49.7,2025-01-26 00:26:01
+13109ca3-ed86-4aad-b5ee-5fcea68353b7,a7c7f85d-5750-44b3-a179-15fd080e969b,,Are Online Reviews of Dental Tourism Clinics Reliable?,34,1068,6,31.0,2025-02-27 18:42:06
+29ba562d-9e8b-450f-b8bf-21551f3d2780,afc99c01-c153-49b4-8494-6b9337e830ca,10.0,Which Countries Offer the Cheapest Medical Tourism Packages?,69,1008,1,109.8,2025-03-16 00:02:40
+22038cce-30a0-4337-a3c2-96e55194213c,4a922a28-2e30-4201-b65d-b3d688d4cc5e,13.0,What Hidden Costs Should I Watch Out for in Medical Tourism?,35,727,15,391.9,2025-01-23 14:28:43
+f2ccdfc1-0db0-4965-8848-ccfaa5c4a2e9,1ccd637b-e176-4676-8fe2-dcd823504b52,12.0,What Countries Have the Best English-Speaking Doctors for Medical Tourists?,12,585,2,219.3,2025-02-27 15:55:23
+6c994200-f709-48a3-8141-0689ab787e4e,d92f78af-2f71-43f7-a2a2-32b0632b5c20,2.0,"How can I find reliable bariatric surgery clinics abroad that have genuine patient feedback, successful treatment stories, and a high success rate for long-term weight loss?",23,368,12,66.1,2025-04-17 08:27:49
+f9b78cc4-4e71-4fa1-936f-0fd53e0b0213,2df7a266-9ed0-42dc-94a8-5298c16772c2,13.0,Which countries offer the best price for medical tourism while maintaining high healthcare standards?,28,980,2,84.5,2025-01-18 22:17:18
+8bee270b-9201-42fd-91c7-9ef4891b6e09,d3467cd2-0443-47d8-9aee-2fece0571e6f,1.0,What are the cost differences between healthcare in Mexico and the U.S. for common procedures?,31,425,12,235.4,2025-01-23 02:08:46
+ee5e739d-228c-41f9-b231-be3643568ea4,7cca5444-021a-457b-8dd8-b91ed5f1f417,12.0,Can you provide a list of surrogacy clinics abroad with genuine ratings and reviews to help me make an informed choice?,51,355,2,384.9,2025-03-16 19:35:56
+820bd980-d47c-4557-9521-e0d74cb81750,776adc59-5fc7-4ead-9163-b55577c96965,,Are Affordable Surrogacy Packages Abroad Safe and Reliable?,59,1073,14,336.2,2025-01-30 07:36:29
+550b4af3-4bbe-47e2-9bc0-8d2100482b4b,9697a79e-ab0f-4156-a0d4-f866beffd21d,,Can someone share their experience with surrogacy abroad while balancing cultural and religious considerations?,68,158,4,384.4,2025-01-28 04:00:58
+4b61d705-6596-4491-965d-b268628e4ac7,0a068855-7dcc-4ca7-8fd1-210e33c0d186,13.0,Are Patient Reviews of Dental Tourism Clinics Trustworthy?,53,319,11,191.0,2025-01-23 15:35:10
+242a08af-7eb5-4638-9131-e1c6620cca0a,3d2d0453-b8b0-4a2d-87b2-20537d14a423,6.0,Is Budget-Friendly Surrogacy Overseas Too Good to Be True?,60,244,0,8.3,2025-02-24 09:20:26
+a0c34291-a2a4-436d-ba92-4ece162dc036,5a521430-9b6e-492b-868d-492bb3d3e12f,16.0,How do healthcare costs in Turkey compare to Australia for specialist treatments?,52,460,3,52.7,2025-02-17 14:09:05
+e64537ae-17ae-4448-a3e4-fd7ef1fd9c08,2089672e-305c-4369-8313-ff95ef859cc7,,Will an English-Speaking Dentist Abroad Understand My Treatment Needs?,29,1477,4,134.1,2025-03-21 22:21:01
+377646c4-f113-424d-83bd-601185e812c0,5df89491-91e3-4fcb-b462-faf0318450cd,14.0,What Are the Best Low-Cost Medical Tourism Destinations for Affordable Treatment?,4,977,8,214.2,2025-02-26 22:40:47
+48e0f084-2142-4129-a00f-1725bc91b396,2be80177-db83-4ca9-a9d2-6941cc6c632a,,What’s It Like Getting Dental Care Abroad Without a Language Barrier?,2,436,10,339.4,2025-03-05 10:38:32
+9b63741c-5ab0-413e-8625-3749b709ae28,923d3122-109d-439b-a283-e08bcf68bf7e,,"Can I Get a Cyst Removed on My Shoulder While on Spring Break in Cancun, Mexico?",32,1211,6,139.3,2025-02-26 03:11:45
+eefcad64-1d88-4d55-b3e0-56d904705ee7,464278bf-173d-455b-be64-41a9ab55f76f,,Do Patients Regret Choosing Medical Tourism for Their Treatment?,45,120,10,193.0,2025-02-09 07:07:25
+5c7b8262-fea2-4a3f-aa2a-d7baa6ddc9e0,5b6e4efa-0a8d-434c-87a6-d36e7aa6cdca,,What Are the Most Affordable Countries for Dental Tourism?,12,1276,7,290.2,2025-04-01 11:24:45
+20950f3f-0f9b-4be7-af28-745a164a564a,ff7927f6-4051-428e-81df-c5a399c81648,9.0,Which English-speaking country is best for high-quality yet affordable cosmetic dental tourism?,57,559,7,291.9,2025-02-11 15:26:37
+6b898293-3bdf-4f17-b08e-dbed0edd4850,4efd4263-a694-40b1-a961-dee02568ff8c,5.0,How can I find affordable surrogacy clinics in Ukraine that don’t compromise on the quality of care?,16,1108,15,236.6,2025-02-22 15:12:53
+cf704d4c-0797-4fe0-8d2d-73583fe16f71,e2727ac6-6cd9-4e78-962d-a7ca8d900891,10.0,What Are the Hidden Costs of Medical Tourism in Low-Cost Destinations?,66,879,7,209.5,2025-02-21 08:12:42
+871ab32c-c4a3-4774-a763-74e4134d4ea6,acd561a7-308e-470a-81e8-08b2eefbb09f,,Are there any affordable dental tourism packages that combine dental care with a vacation experience in popular tourist spots?,29,690,7,118.0,2025-04-03 22:16:18
+a62054db-bf72-434e-8088-bbb8dacb744c,fb4123bd-7c8e-4871-b955-c4babaf92080,,How Can I Tell If a Dental Quote Abroad Is Too Good to Be True?,0,1384,0,206.4,2025-04-08 01:58:13
+2e7a8052-f486-430f-8974-f090cf88876b,2cae596d-7819-4580-a781-e4e01d10b7d0,15.0,How Do I Know If a Dental Clinic Abroad Truly Offers English-Speaking Services?,39,599,8,245.0,2025-04-15 18:43:37
+49530405-be60-43bd-9930-3ea02acf451d,89d9680f-465d-4779-8e2a-00914bfaa6ae,1.0,"How much does a root canal or filling cost in Costa Rica, and is it worth it for international patients?",38,278,2,5.7,2025-03-29 11:52:38
+3eba6140-b1f3-445b-a0bd-46b39ada9976,a6faa73c-cf7f-420d-b9f8-674d6e2418c7,,How do legal fees and processes affect the overall cost of surrogacy in different countries?,56,389,14,119.6,2025-04-03 12:22:05
+dba54cf9-9c1e-4daa-94c7-d0f571134e4b,fe0f8284-b141-4880-b11f-a0d620320e98,8.0,"Can I Get a Cyst Removed on My Shoulder While on Spring Break in Cancun, Mexico?",60,875,1,382.2,2025-03-30 15:15:55
+02410ffe-66e0-4dec-9c53-ab3bcf2bbb77,e39f99c5-faac-4df3-8ba0-4f28a4f7e616,,How do I ensure the surrogate's health and well-being are prioritized at low-cost surrogacy clinics abroad?,17,1362,15,327.5,2025-04-01 16:22:22
+aa7d2c4a-d3f1-4910-abd5-5386cdef32de,308dc512-cce8-48ea-ae87-c1e74a89859c,,Are Gold Dental Crowns in Asia Worth It for a South African Traveler?,6,148,15,390.5,2025-04-11 00:34:29
+e5579ac2-2aa2-43e5-987b-2c175c2ea676,7f333c05-cef9-40ee-a556-da9ebd782233,11.0,What’s Included in Low-Cost Medical Tourism Packages?,74,89,4,255.1,2025-01-29 03:31:22
+0a516027-c829-4b38-9868-1bd4a94c27c9,a1523738-ff2f-47dd-9384-59b7ecd85cb6,,How Do I Avoid Scams in Cheap Medical Tourism Deals?,32,993,9,57.0,2025-01-31 02:04:39
+490de3b1-c525-4587-bdb9-d7ececb87741,538a5b28-159d-4422-b8b9-96e58c790b73,,Which Countries Offer the Biggest Cost Savings for Medical Tourism?,47,1413,3,288.8,2025-02-16 18:49:17
+b2b504f8-4f92-4f4d-b4e5-87f9402b84b3,55e765c0-ebbc-4028-a044-75541eee079c,,How much does private healthcare cost in Thailand compared to the UK’s NHS?,11,1312,15,309.0,2025-02-28 06:14:36
+b77eec62-ee89-4922-841e-20f10f1950de,5f7d1eb6-ba12-45e5-8a79-11496a50e169,,Are the Positive Reviews of Dental Clinics Abroad Trustworthy?,23,629,5,112.1,2025-01-18 09:42:44
+e22c6e9d-0bd8-4745-be57-dc26f33863b8,d131b106-23dd-45f2-af81-48f0d9430fb5,10.0,Which Countries Have the Best Patient Reviews for Dental Tourism?,48,378,3,143.6,2025-04-14 21:25:53
+6305139e-9f98-4203-af53-bfcd516f0533,e8e22090-85c9-4521-a6dd-44c73a7e63cd,,Where can I find affordable English-speaking dental care abroad for major procedures?,55,958,14,320.9,2025-03-22 13:49:47
+6f6593c7-25c5-4306-96bb-23a74e757569,0fa27f63-f22b-4d3c-bab8-270e52d23033,20.0,What Are the Biggest Risks of Low-Cost Surrogacy Abroad and How Can Parents Protect Themselves?,45,1318,15,381.7,2025-03-23 16:50:42
+53c813c6-173b-463f-9d2f-44eaed84650d,0389127b-9bd2-430c-997b-21088324975f,7.0,What’s Included in Low-Cost Medical Tourism Packages?,14,1039,12,126.5,2025-04-11 04:13:43
+2b4f7333-5a52-4b86-9ab4-44463243ca25,c66d5ce6-0783-4dbe-afd6-54db7123edc5,,What Are the Hidden Costs of Dental Implants Abroad?,14,335,10,252.4,2025-04-14 02:24:13
+912740c9-2eb0-4e54-b8f8-949acd954dc8,5fff1134-34af-435a-9a47-c7d31137e6ae,,Dental professional researching industry standards,71,986,14,333.5,2025-02-08 22:16:55
+6ffcb728-05f6-4af9-9eae-dc934208f91b,8cec68a6-9ccf-42dd-a8ad-252fa698a326,13.0,Are There Hidden Costs in Cheap Surrogacy Abroad?,26,1010,2,20.9,2025-04-10 03:42:18
+ef883715-e60b-41c7-aae3-0303792896b2,cfbfbc79-ae61-49ed-9f07-8e173e2b85a0,,"How can we ensure complete transparency in surrogacy pricing in India, and what should be included in the cost breakdown?",59,916,2,29.8,2025-03-12 06:31:19
+15429006-71e9-4364-b8a8-242a47678bd3,d20294f1-5dc2-4a5e-ab87-8a846f3ad2c1,20.0,Has Anyone Had a Successful Surrogacy Journey Abroad?,71,738,7,86.7,2025-02-19 02:51:04
+e3856532-84ba-403b-ad27-d7c55fce500a,fbcc31b2-e59b-4fd1-baef-48f8cd34f1ed,,Does Insurance Cover Medical Treatment in Another Country?,15,519,12,148.1,2025-02-24 07:54:15
+05388b64-f974-429c-9be5-3a3663df9045,5c15fa88-aecc-4ffc-825c-57c9982fba17,,Are Gold Dental Crowns in Asia Worth It for a South African Traveler?,27,204,10,178.6,2025-02-05 15:59:25
+b05749e9-ef78-4cc3-860b-dd7bdd4546fa,ec6c879b-3e24-4dc8-8879-5518165fb425,,Which Websites Have the Most Reliable Medical Tourism Reviews?,61,1323,4,291.5,2025-04-05 05:07:02
+101ce365-4bb3-49f6-92bf-2e29d02617a8,5e4f4be6-4810-4808-947c-b30afac17634,,Has anyone had cosmetic surgery in Thailand with fully transparent pricing?,46,936,9,278.9,2025-04-07 13:59:52
+60918840-b04e-4c48-939a-1f0d62142847,192e7d63-1fed-46cc-8262-a2f16d9aa01e,20.0,Which Dental Tourism Destinations Have the Most Positive Patient Reviews?,59,122,4,398.4,2025-03-20 18:04:27
+3ac88a8a-2a02-42d3-9bf6-04be9060c494,909f559c-0e7e-421f-96d5-97e080908896,,Can Anyone Share Their Personal Experience with Medical Tourism?,70,557,4,113.4,2025-04-13 01:33:02
+31445e46-0fc5-4356-ae5e-ba3f8f191a4d,c26a5cc6-cc3d-491f-baf7-a7790ce74b56,9.0,What are the best English-speaking destinations for dental tourism with reliable care and transparent pricing?,54,1388,13,146.6,2025-03-08 04:38:34
+fcacc1f5-4343-49e6-9812-5a7ce17e34a7,dbcce538-48b4-4afb-be85-d9c803916d7b,11.0,What Do Patients Say About Their Experience With Dental Tourism?,41,1336,14,395.8,2025-03-14 16:33:32
+5dfdc3e1-4734-4d00-aec4-b88ae4b05ff6,cf370a02-d1de-493e-842c-62e5da91e68d,,Are the Positive Reviews of Dental Clinics Abroad Trustworthy?,8,279,14,236.8,2025-01-26 13:43:02
+6c15f88d-e755-41e1-a5d6-39121ca2a323,eb496636-675c-48db-9316-4fb52c03671e,12.0,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",28,792,6,93.5,2025-03-26 05:26:15
+8bdd6fb6-2c9d-48ba-affa-cfd68b8512b6,db2fbb7f-306f-4eca-b02d-f5f8dbadd005,15.0,"What are the best hospitals and clinics in Japan that provide English-speaking medical services, and how expensive is private healthcare?",35,94,13,399.7,2025-03-20 20:25:05
+db172d68-b487-4aac-a16e-146fa54e93e6,6b2d1ddb-cd03-428b-9f3a-118d52816c04,,How Do I Maximize My Savings When Getting Medical Treatment Abroad?,11,1246,1,329.7,2025-03-31 05:43:49
+3cf46a61-f357-4ee2-920a-9da210d289ce,e11f79a9-35cb-4bce-9c17-2a8c4a47a32d,,Do English-Speaking Doctors Abroad Provide the Same Level of Care?,23,71,9,100.6,2025-01-23 04:05:02
+abc371b2-22bd-4de6-8c24-2a62d0fc80bd,98649e89-edcf-473d-b6da-ef6c682c96f0,20.0,"What are the top medical tourism countries for stem cell therapy for joint degeneration and osteoarthritis, and what should we know before traveling abroad for treatment?",36,1237,11,68.3,2025-03-04 23:54:27
+32b344f2-e0db-4b21-b5f3-4a5c9f6f302d,6949c827-b9d5-47f3-94bc-5316032f1ae4,,Has anyone traveled to Thailand for dental tourism? How easy is it for English speakers?,44,64,11,243.5,2025-02-21 04:43:36
+b28bacf7-1396-4afd-bb52-5b022d77a3be,5c33ff30-eb23-4c1e-996c-97cce3c8619a,10.0,What Are the Pros and Cons of Choosing Low-Cost Surrogacy Abroad?,72,100,14,343.9,2025-04-16 17:46:37
+546ec566-945e-482b-9da2-260c931ee9cc,6333442f-4fcf-40aa-bb09-396a654976ff,,How do international surrogacy laws affect bringing a baby home from an affordable overseas clinic?,6,1318,10,152.8,2025-01-28 02:09:45
+1bb5aa99-851b-4230-8669-b598fbf8430b,f8221b71-6960-4b14-b4d7-047643d935ea,16.0,Where Can I Find English-Speaking Dentists for a Dental Vacation?,0,139,2,174.6,2025-02-15 16:31:52
+f7eebec8-b5a3-4fca-9034-0dec89cfab60,39aaaa9c-fb09-4701-aee8-cb45a4bf2be9,,How can I be sure that the medical tourism clinic I choose has real patient feedback and not just promotional reviews?,56,119,13,188.7,2025-03-01 13:24:01
+0feec463-a2bf-4b15-84a5-87c4b33b7d43,9d6ca6ab-12be-4a06-9bd9-aa7311798df3,18.0,Can I Find an English-Speaking Surgeon in Bangkok for a Hair Transplant?,55,1461,2,41.5,2025-03-15 21:26:36
+bbcffda4-57c1-46c2-864f-7693df74604c,1389074e-c2b9-4c1d-8d05-2cabde4797fc,1.0,Are Dental Tourism Clinics with English-Speaking Staff More Expensive?,0,517,5,253.0,2025-02-20 11:28:37
+58e9da7d-eb66-43ec-bfdb-bf0357153bbe,11115334-53fa-4bea-b64c-da0848ef114f,,How Can I Tell If a Dental Quote Abroad Is Too Good to Be True?,28,794,13,241.3,2025-03-01 05:34:09
+4537f1f5-ee93-4ef7-8ff8-25eaa2706a9b,b6a534da-97b0-4de4-b05f-9df04e221bb8,10.0,What’s It Like Getting Dental Care Abroad Without a Language Barrier?,0,47,9,145.5,2025-04-11 18:38:37
+e48ccbc3-90b8-484a-84b8-2d71de9c132f,1fb51d0e-34e5-436e-83fa-a0f265bdc622,,Are There English-Speaking Plastic Surgeons in Italy for a Face Lift and Graft?,32,997,1,189.2,2025-03-16 03:26:41
+6f7f7d53-2f55-4b69-81b5-0145a83bfa6b,5acb45ea-fdf3-4c8d-9680-14c6e1844754,3.0,"How much does dental work cost in Turkey, and are the clinics safe for complex procedures like veneers or full-mouth restoration?",19,832,6,77.6,2025-01-18 22:24:48
+332fb7c1-9d81-452a-81ab-b254b01cd4ab,2d14d6ff-fbad-4868-8f2b-0d8175286624,1.0,Are Low-Cost Medical Tourism Destinations Safe for Surgery and Treatment?,41,613,9,24.9,2025-02-15 10:09:56
+224cacc3-a4ee-430b-9ef7-565ac8d5499b,6aeeea92-caf4-42a7-938a-aca1a1edb7d1,,What are the top medical tourism countries for affordable hair restoration and how do I ensure the clinic’s quality abroad?,58,669,15,384.3,2025-02-16 19:27:46
+dc7744fa-f254-40bd-b5db-0ad0d077a77f,3ac91f9e-3f1d-469e-9a26-6e5096e98f92,,What Are the Best Treatment Options for PCOS in Europe?,69,383,9,11.9,2025-01-24 20:59:51
+932d43dc-91ed-4cfb-b50d-eca192691d31,c169e7ea-0883-4826-b6d5-549b13188da0,,Is IVF in Greece really more affordable? How do I find transparent pricing?,4,557,13,378.8,2025-02-05 19:48:55
+a27d8456-cdae-4648-9c77-7cdd710384d2,379511b6-99e0-4a4c-a537-ab1b8a6b92b6,,Which are the top medical tourism countries for affordable cardiology treatments and heart surgeries?,2,781,14,382.5,2025-03-23 13:26:09
+c0e8e064-70d7-471a-931e-97402175da6c,561eed0c-3c37-469f-aba0-e5f91f5ed841,,Are Cheap Medical Tourism Packages Really Worth It?,53,1161,11,82.3,2025-03-09 03:32:50
+c76a681f-731f-477b-a696-cee4545efdf3,0214fb39-1244-466b-a30b-2df8dfcff143,,Where Can I Find Verified Patient Reviews on Affordable Dental Implants Overseas?,47,19,7,195.8,2025-01-22 11:45:07
+37e7756c-4e13-40c7-8577-960f825ee122,d6b07f78-75e6-4f12-b74b-455425123360,,Is Budget-Friendly Surrogacy Overseas Too Good to Be True?,49,1338,3,96.0,2025-04-14 06:56:55
+e2f62878-9fbd-4243-a2e5-c20f0932062b,54b69dee-998a-47cc-9f98-3a51c255aec5,,Where can I get a dental implant in Mexico with transparent pricing and no hidden fees?,64,763,3,275.9,2025-01-18 13:30:04
+f50d84b6-1708-48c5-9b06-4b53bb974a69,c2c71314-7e3c-440c-a0c2-c127b7c9d761,,How Do I Find a Trustworthy Surrogacy Agency Abroad?,11,624,2,94.6,2025-02-11 09:47:45
+39b238f9-4bfd-4761-8244-2f85f21f9046,3a89c99e-89a8-43ff-8f98-67b7a465031e,11.0,Where Can I Find the Best Affordable Dental Tourism Deals Abroad?,5,146,0,45.7,2025-02-04 08:16:02
+31fd54b7-f962-4216-b488-d700bfa4b3a5,40427c45-2f56-408f-9c05-245bdd53f8a5,14.0,Dental professional researching industry standards,31,396,13,17.3,2025-02-24 04:54:11
+076f19d1-1880-4cf5-9d56-9a3fb905a075,8f46d1be-cfcf-40cf-9e61-e4f7c97d27d3,3.0,Do Patients Recommend Their Dental Tourism Experience?,25,171,6,112.6,2025-02-26 17:22:08
+33d8d956-f8d0-4b60-ae46-5a663cefb032,bdfdb85a-db0f-41b9-aaf5-64d21a77eeb6,19.0,"Are there English-speaking surrogacy clinics in Eastern Europe, and what are the typical costs involved?",52,1341,13,181.0,2025-03-21 19:26:33
+832b0a70-7b17-4192-ae45-59f80b1cf290,e6859ef4-fcc7-49a5-9838-1c495ef5f90a,12.0,Busy professional seeking convenience,8,1176,2,133.2,2025-02-08 00:24:46
+e31d7d86-39fb-45c8-8e3e-6eb02132aa4e,c6fe4f27-2bab-424f-9381-47cac336c481,11.0,What additional costs should patients consider when budgeting for medical tourism beyond the listed procedure price?,21,49,8,386.2,2025-02-22 16:26:53
+4902c9f3-6bbe-4990-a221-41e21f4ca06a,468a53e9-6420-4cf8-9ae4-0024f76a4559,,"What is the total cost of surrogacy in Ukraine, and how can we ensure there are no hidden fees?",3,1084,7,32.7,2025-04-08 08:20:24
+d82318ec-0276-4e98-a445-8064962bc322,9936e7a6-da38-4368-9bbb-0b7fc979475a,5.0,Which International Surrogacy Clinics Have the Best Real Patient Reviews?,31,905,11,313.5,2025-02-08 15:01:54
+16a5d871-2baf-45a6-a5ef-8549f334c81c,33086e5f-24f8-4c59-99e5-b18c7903c569,,What should I know about the risks and benefits of getting dental implants abroad?,10,1476,14,14.9,2025-03-16 09:44:40
+30a8ddca-5da8-4533-9f12-166230310e2d,d63e2654-90ff-4682-83cc-5952fc992ab1,,How do you verify if an English-speaking dentist abroad is qualified and trustworthy? What should I look for to avoid bad dental work?,56,1084,1,301.3,2025-02-21 16:42:45
+0ffcb88f-7dc6-4f05-a2db-a0bdf43bf62b,a766a833-115a-4a30-94f5-c52a0252d085,,How do I ensure the surrogate's health and well-being are prioritized at low-cost surrogacy clinics abroad?,69,1434,8,302.1,2025-04-16 09:23:43
+c924c0f2-5687-465a-b10a-de104d7150db,309fc8cf-e887-4023-8518-a0d8f7d4c251,,How Do I Communicate with a Dentist Abroad If I Don’t Speak the Local Language?,74,1086,2,70.1,2025-03-24 22:38:26
+3c418e06-fcde-48d5-9b65-b45ab83eabee,7c99ac4b-7412-43f6-bc81-97c630de9e20,18.0,Where Can I Find English-Speaking Doctors for Surrogacy Abroad?,29,968,6,179.4,2025-03-17 06:17:03
+a6e30071-0c85-482e-8222-75d929597524,e51cab4b-e7aa-4699-aed6-c68bf2df3798,15.0,How do you manage long-distance communication and trust when choosing an affordable surrogacy clinic overseas?,68,649,3,241.1,2025-03-20 21:28:34
+677e0a6d-9f71-4bf1-9a5b-5b9c47add054,606894fd-33b1-4ad0-8d07-3f18b4b87f70,,"How do the costs of a dental vacation compare across Mexico, Thailand, and Hungary?",73,540,13,260.9,2025-01-17 21:53:18
+7b15e141-53e9-4d9b-a118-212a735710c1,95f28521-c55f-4c3c-8179-14073de63c2e,11.0,What Are the Pros and Cons of Choosing Low-Cost Surrogacy Abroad?,33,262,4,347.9,2025-03-08 15:46:29
+7656a2b3-e56d-4aa3-8982-88377d076a51,7c0e0fc9-7819-4e69-aa98-8922e9b2b26e,,Busy professional seeking convenience,27,1496,1,268.6,2025-01-30 22:49:23
+46c4f629-5682-4514-915c-6957cfdc1b40,f55f2883-83c0-41ec-b6ed-e79acecbb1c9,,How can I be sure that the medical tourism clinic I choose has real patient feedback and not just promotional reviews?,32,1014,10,313.9,2025-04-01 11:12:18
+a616b32b-d6dd-4651-b94a-e339d154176e,fc0df89e-94c2-42e8-b723-e22797a1fd63,11.0,What Do Parents Say About the Legal Process in Low-Cost Surrogacy Countries?,22,651,9,31.8,2025-04-02 02:29:14
+772ab9f6-9a78-4f28-8796-a0de81fb0b9e,b8f620af-da43-4db0-adcf-0fd6aec91c03,,What are the best cities in Mexico for affordable and high-quality dental implants?,61,1319,3,83.1,2025-01-25 01:14:02
